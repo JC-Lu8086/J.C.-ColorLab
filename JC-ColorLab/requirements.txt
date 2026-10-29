@@ -1,0 +1,4 @@
+# Install the local project and its runtime dependencies.
+# Development and packaging: python -m pip install -e '.[dev]'
+.
+

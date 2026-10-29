@@ -1,0 +1,1 @@
+../../Resources/rawpy/_rawpy.pyi

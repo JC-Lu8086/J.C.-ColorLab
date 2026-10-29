@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jc-colorlab"
+version = "0.1.0"
+description = "Screen-relative camera color calibration and chart-based look reconstruction"
+readme = "README.md"
+requires-python = ">=3.11,<3.15"
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+authors = [{name = "J.C. Lu"}]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+  "Operating System :: MacOS",
+  "Operating System :: Microsoft :: Windows",
+  "Topic :: Multimedia :: Graphics",
+]
+dependencies = [
+  "numpy>=2.0,<3",
+  "scipy>=1.13,<2",
+  "Pillow>=10.4,<14",
+  "opencv-contrib-python-headless>=4.10,<6",
+  "rawpy>=0.23,<0.28",
+  "tifffile>=2024.8.30",
+  "Flask>=3.0,<4",
+  "Werkzeug>=3.0,<4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "pyinstaller>=6.11,<7", "packaging>=24"]
+
+[tool.setuptools.packages.find]
+include = ["jc_colorlab*"]
+
+[tool.setuptools.package-data]
+jc_colorlab = ["static/*", "static/**/*", "native/*", "templates/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
