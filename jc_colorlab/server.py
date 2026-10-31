@@ -125,14 +125,14 @@ def create_app(token=None, preferences_path=None):
 
     @app.get("/")
     def index():
-        return Response((STATIC / "index.html").read_text().replace("__LAB_TOKEN__", token).replace("__VERSION__", __version__).replace("__IMAGE_EXTENSIONS__", ",".join(sorted(RAW_EXTENSIONS | {".tif", ".tiff", ".png", ".jpg", ".jpeg", ".webp", ".bmp"}))), mimetype="text/html")
+        return Response((STATIC / "index.html").read_text(encoding="utf-8").replace("__LAB_TOKEN__", token).replace("__VERSION__", __version__).replace("__IMAGE_EXTENSIONS__", ",".join(sorted(RAW_EXTENSIONS | {".tif", ".tiff", ".png", ".jpg", ".jpeg", ".webp", ".bmp"}))), mimetype="text/html")
 
     @app.get("/chart")
     def chart_page():
         levels = int(request.args.get("levels", 7))
         target_space = request.args.get("target_space", "srgb")
         chart_manifest(levels, target_space=target_space)
-        return Response((STATIC / "chart.html").read_text().replace("__LEVELS__", str(levels)).replace("__TARGET_SPACE__", target_space).replace("__LAB_TOKEN__", token), mimetype="text/html")
+        return Response((STATIC / "chart.html").read_text(encoding="utf-8").replace("__LEVELS__", str(levels)).replace("__TARGET_SPACE__", target_space).replace("__LAB_TOKEN__", token), mimetype="text/html")
 
     @lru_cache(maxsize=12)
     def chart_bytes(levels, target_space):

@@ -36,7 +36,7 @@ def main():
     parser.add_argument('--offline',action='store_true')
     args=parser.parse_args()
     root=Path(__file__).resolve().parents[1]
-    version=tomllib.loads((root/'pyproject.toml').read_text())['project']['version']
+    version=tomllib.loads((root/'pyproject.toml').read_text(encoding="utf-8"))['project']['version']
     cache=args.cache.resolve();destination=args.output.resolve()
     if destination.exists():
         raise SystemExit('Output folder already exists; choose a new output folder.')
@@ -46,7 +46,7 @@ def main():
     if not args.offline:
         if not python_zip.exists():
             urllib.request.urlretrieve(PYTHON_URL,python_zip)
-        dependencies=tomllib.loads((root/'pyproject.toml').read_text())['project']['dependencies']
+        dependencies=tomllib.loads((root/'pyproject.toml').read_text(encoding="utf-8"))['project']['dependencies']
         subprocess.run([sys.executable,'-m','pip','download','--only-binary=:all:','--platform','win_amd64','--python-version','314','--implementation','cp','--abi','cp314','--dest',str(wheel_dir),*dependencies,'colorama>=0.4.6'],check=True)
     if hashlib.sha256(python_zip.read_bytes()).hexdigest()!=PYTHON_SHA256:
         raise ValueError('Official Python runtime SHA-256 mismatch')

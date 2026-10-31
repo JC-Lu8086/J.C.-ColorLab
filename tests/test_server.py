@@ -89,3 +89,18 @@ def test_file_picker_includes_every_raw_extension():
     accepted=set(re.search(r'id="file-input"[^>]*accept="([^"]+)"',page).group(1).split(','))
     assert RAW_EXTENSIONS <= accepted
     assert '__IMAGE_EXTENSIONS__' not in page
+
+
+@pytest.mark.parametrize("route", ["/", "/chart"])
+def test_pages_ignore_windows_default_text_encoding(monkeypatch, route):
+    from pathlib import Path
+    from jc_colorlab.server import STATIC
+    original = Path.read_text
+    def windows_read_text(path, encoding=None, errors=None):
+        if path.parent == STATIC and path.suffix == ".html":
+            return path.read_bytes().decode(encoding or "cp1252", errors or "strict")
+        return original(path, encoding=encoding, errors=errors)
+    monkeypatch.setattr(Path, "read_text", windows_read_text)
+    response = create_app("test-token").test_client().get(route)
+    assert response.status_code == 200
+    assert "JC ColorLab" in response.get_data(as_text=True)
