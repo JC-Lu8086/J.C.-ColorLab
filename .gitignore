@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+release/
+*.spec
+.DS_Store
+Thumbs.db
+*.log
+.coverage
+htmlcov/
+local-images/
+
+
+# Application distributions belong in GitHub Releases.
+/JC-ColorLab-*.zip
+/JC-ColorLab-macOS-*/
+/JC-ColorLab-Windows-*/
+/JC-ColorLab-v*-macOS-*/
+/JC-ColorLab-v*-Windows-*/
+*.app/

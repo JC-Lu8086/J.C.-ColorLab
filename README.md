@@ -1,13 +1,17 @@
 # JC ColorLab
 
 **屏幕相对校色 · 相机风格重建**  
-v0.1.0 alpha · Copyright © 2026 **J.C. Lu** · [MIT](LICENSE)
+v0.2.0 alpha · Copyright © 2026 **J.C. Lu** · [MIT](LICENSE)
 
 把屏幕上的已知数字色卡、相机拍到的色卡，以及相机风格化后的色卡连起来：建立可复现的相对校色映射，或从成对色卡中估计可复用的色彩风格。照片在本机处理。
 
-> 这是首个实验版本。它精确定义色卡的数字值和色彩空间，但不会测量屏幕实际发光，也不会自动把屏幕校准为物理色彩标准。CUBE 作用于**所选工作空间中的 RGB 数值**，不是相机 DCP、显示器 ICC 或对任意 RAW 都成立的校准。选择更宽的工作空间不会自动扩大屏幕实际覆盖的颜色。
+> 这是第二个实验版本。它精确定义色卡的数字值和色彩空间，但不会测量屏幕实际发光，也不会自动把屏幕校准为物理色彩标准。CUBE 作用于**所选工作空间中的 RGB 数值**，不是相机 DCP、显示器 ICC 或对任意 RAW 都成立的校准。选择更宽的工作空间不会自动扩大屏幕实际覆盖的颜色。
 
 ## 可以做什么
+
+- 界面可切换中文、English、Français、日本語、Deutsch、Русский，并记住语言选择。
+- 色卡标题右侧提供宽中性灰条，便于白平衡截取；按当前色卡空间定义约 18% 线性亮度。
+- 单图与当前会话总量均支持最多 **240MP**，单文件最多 **2GiB**；已实际验证两张各 120MP 的合成 JPG 同时载入。大图仍需要足够内存，RAW 支持取决于 LibRaw 与具体机型。
 
 - 原创 4K 数字色卡：146、376、762、4978 个色块，包含 RGB 立方体采样、独立灰阶及用于定位的标记；黑色间隔分开各块，并在空间上错开相近颜色。
 - 屏幕色卡可选 sRGB、Display P3 或 Adobe RGB (1998)，嵌入对应 ICC；导出参考图与数字参考信息。
@@ -20,6 +24,12 @@ v0.1.0 alpha · Copyright © 2026 **J.C. Lu** · [MIT](LICENSE)
 - 自动排除工作域无法表示的校色参考块，并在报告中保存排除记录及拍摄备注。
 
 本软件采用独立实现和原创色卡。用户提供的第三方 Windows 工具仅用于了解交互需求，没有复制其程序、资源或商用色卡图案。Datacolor Spyder Checkr 和 Calibrite ColorChecker 是不同厂商的实体产品，本项目没有附带其测量数据，也不宣称兼容其专有配置文件。
+
+## 下载 / Downloads
+
+[下载 v0.2.0 / Download v0.2.0](https://github.com/JC-Lu8086/J.C.-ColorLab/releases/tag/v0.2.0) — macOS Apple Silicon、Windows x64 实验包、源码与 SHA-256 校验文件。
+
+本仓库保存源码；可运行应用包在 Releases。Windows 尚未实机测试，作者目前仅有 Mac，暂不维护 Windows。
 
 ## 启动
 
@@ -63,7 +73,7 @@ py -3.12 -m venv .venv
 
 ## 版本状态与边界
 
-| 项目 | v0.1.0 状态 |
+| 项目 | v0.2.0 状态 |
 |---|---|
 | macOS Apple Silicon | 本地开发与验证目标；已启动独立应用并验证五空间导出；见 [验证记录](docs/VALIDATION.md) |
 | Windows x64 | 已组装实验便携包，另有源码与 CI；尚未运行验证，作者暂不维护 |
@@ -76,19 +86,22 @@ py -3.12 -m venv .venv
 | Adobe XMP | 32³、16 位 3D LUT，仅用于已显影 SDR 图片；常用四空间原生表，ACEScg 为 sRGB 适配；尚未完成 Adobe 宿主验证 |
 | 风格重建 | 整体颜色/色调近似；不重建颗粒、锐化、纹理或局部/语义调色 |
 
-截至本版文档核对，macOS 开发环境的 **157 项自动测试通过**，覆盖颜色空间转换、色卡/定位、拟合、图像读写、导出格式与服务接口。这不等于 Windows 运行测试、Adobe 宿主渲染测试或真实显示器色准验证；独立应用包检查见 [验证记录](docs/VALIDATION.md)。
+截至本版文档核对，macOS 开发环境的 **165 项 Python 自动测试和 8 项 JavaScript 翻译检查通过**，覆盖颜色空间转换、色卡/定位、拟合、图像读写、导出格式与服务接口。这不等于 Windows 运行测试、Adobe 宿主渲染测试或真实显示器色准验证；独立应用包检查见 [验证记录](docs/VALIDATION.md)。
 
 ## 开发与打包
 
 ```bash
 python -m pip install -e '.[dev]'
 python -m pytest -q
+node --test tests/test_i18n.js
 python scripts/build.py
 ```
 
 构建结果在 `dist/`。在 Mac 上构建 Mac 应用，在 Windows 上构建 Windows 程序；PyInstaller 不提供直接的跨操作系统编译。[原理说明](https://pyinstaller.org/en/stable/usage.html#supporting-multiple-operating-systems)
 
 `.github/workflows/build.yml` 为 macOS Apple Silicon 与 Windows x64 配置自动测试及打包，只上传工作流附件，不自动公开发布。构建脚本收集实际依赖版本与随包许可证；重新发布时应保留这些文件。
+
+第二版的语言、容量与灰条说明：[v0.2.0 使用说明](docs/SECOND_RELEASE.md)。
 
 更多内容：[色彩科学约定](docs/COLOR_SCIENCE.md) · [操作流程](docs/WORKFLOW.md) · [迭代路线](docs/ROADMAP.md) · [版本记录](CHANGELOG.md) · [第三方组件](THIRD_PARTY_NOTICES.md)
 

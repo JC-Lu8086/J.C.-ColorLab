@@ -1,0 +1,2484 @@
+{
+  "locales": [
+    "zh-CN",
+    "en",
+    "fr",
+    "ja",
+    "de",
+    "ru"
+  ],
+  "entries": [
+    [
+      "色彩实验室",
+      "Color laboratory",
+      "Laboratoire couleur",
+      "カラーラボ",
+      "Farblabor",
+      "Лаборатория цвета"
+    ],
+    [
+      "工作空间",
+      "Workspace",
+      "Espace de travail",
+      "ワークスペース",
+      "Arbeitsbereich",
+      "Рабочее пространство"
+    ],
+    [
+      "工作模式",
+      "Workflow",
+      "Mode de travail",
+      "作業モード",
+      "Arbeitsmodus",
+      "Режим работы"
+    ],
+    [
+      "屏幕相对校色",
+      "Screen-relative calibration",
+      "Étalonnage relatif à l’écran",
+      "画面基準の色補正",
+      "Bildschirmbezogene Kalibrierung",
+      "Калибровка относительно экрана"
+    ],
+    [
+      "相机风格提取",
+      "Camera look extraction",
+      "Extraction du rendu photo",
+      "カメラの色調を抽出",
+      "Kameralook extrahieren",
+      "Извлечение стиля камеры"
+    ],
+    [
+      "应用与导出",
+      "Apply & export",
+      "Appliquer et exporter",
+      "適用と書き出し",
+      "Anwenden und exportieren",
+      "Применение и экспорт"
+    ],
+    [
+      "数字参考有定义。",
+      "Defined digital references.",
+      "Références numériques définies.",
+      "数値で定義された基準色。",
+      "Definierte digitale Referenzen.",
+      "Определённые цифровые эталоны."
+    ],
+    [
+      "物理准确度，需要测量。",
+      "Physical accuracy requires measurement.",
+      "La précision physique exige une mesure.",
+      "物理的な正確さには測定が必要です。",
+      "Physische Genauigkeit erfordert Messungen.",
+      "Физическая точность требует измерений."
+    ],
+    [
+      "SDR 色彩管理",
+      "SDR color management",
+      "Gestion des couleurs SDR",
+      "SDR カラーマネジメント",
+      "SDR-Farbmanagement",
+      "Управление цветом SDR"
+    ],
+    [
+      "体验合成示例",
+      "Try synthetic demo",
+      "Essayer la démo synthétique",
+      "合成デモを試す",
+      "Synthetische Demo testen",
+      "Открыть синтетический пример"
+    ],
+    [
+      "打开已保存的映射",
+      "Open saved mapping",
+      "Ouvrir une transformation",
+      "保存済み変換を開く",
+      "Gespeicherte Abbildung öffnen",
+      "Открыть сохранённое преобразование"
+    ],
+    [
+      "拍摄与使用说明",
+      "Capture & usage guide",
+      "Guide de prise de vue",
+      "撮影・操作ガイド",
+      "Aufnahme- und Bedienhilfe",
+      "Съёмка и использование"
+    ],
+    [
+      "退出本地服务",
+      "Quit local service",
+      "Arrêter le service local",
+      "ローカルサービスを終了",
+      "Lokalen Dienst beenden",
+      "Завершить локальный сервис"
+    ],
+    [
+      "本机离线处理",
+      "Local offline processing",
+      "Traitement local hors ligne",
+      "ローカル・オフライン処理",
+      "Lokale Offline-Verarbeitung",
+      "Локальная обработка без сети"
+    ],
+    [
+      "让颜色，有据可依。",
+      "Give color a reference.",
+      "Donnez une référence à la couleur.",
+      "色に、確かな基準を。",
+      "Farben brauchen eine Referenz.",
+      "Цвету нужен эталон."
+    ],
+    [
+      "以当前屏幕为相对参考，建立可复用的相机色彩映射。",
+      "Create reusable camera color mappings relative to this display.",
+      "Créez des transformations couleur réutilisables, relatives à cet écran.",
+      "この画面を相対基準に、再利用できるカメラ色変換を作成します。",
+      "Wiederverwendbare Kamerafarbabbildungen relativ zu diesem Bildschirm erstellen.",
+      "Создавайте преобразования цвета камеры относительно этого экрана."
+    ],
+    [
+      "显示全屏色卡",
+      "Show fullscreen chart",
+      "Afficher la mire plein écran",
+      "色票を全画面表示",
+      "Testtafel im Vollbild",
+      "Показать таблицу на весь экран"
+    ],
+    [
+      "参考色卡",
+      "Reference chart",
+      "Mire de référence",
+      "基準色票",
+      "Referenztafel",
+      "Эталонная таблица"
+    ],
+    [
+      "色卡密度",
+      "Chart density",
+      "Densité de la mire",
+      "色票の密度",
+      "Felddichte",
+      "Плотность таблицы"
+    ],
+    [
+      "146 色 · 宽容",
+      "146 patches · forgiving",
+      "146 plages · tolérant",
+      "146 色・余裕のある配置",
+      "146 Felder · tolerant",
+      "146 полей · крупные"
+    ],
+    [
+      "376 色 · JPG 推荐",
+      "376 patches · JPG recommended",
+      "376 plages · conseillé pour JPG",
+      "376 色・JPG 推奨",
+      "376 Felder · für JPG empfohlen",
+      "376 полей · для JPG"
+    ],
+    [
+      "762 色 · 高密度",
+      "762 patches · dense",
+      "762 plages · haute densité",
+      "762 色・高密度",
+      "762 Felder · hohe Dichte",
+      "762 поля · высокая плотность"
+    ],
+    [
+      "4,978 色 · 实验",
+      "4,978 patches · experimental",
+      "4 978 plages · expérimental",
+      "4,978 色・実験用",
+      "4.978 Felder · experimentell",
+      "4 978 полей · экспериментально"
+    ],
+    [
+      "15 英寸 / 4K 基准 · 黑色间隔 · 相近色分散",
+      "15-inch / 4K target · black gutters · separated similar colors",
+      "Base 15 pouces / 4K · séparations noires · teintes proches espacées",
+      "15 インチ / 4K 基準・黒い間隔・類似色を分散",
+      "15 Zoll / 4K · schwarze Abstände · ähnliche Farben getrennt",
+      "15 дюймов / 4K · чёрные промежутки · близкие цвета разнесены"
+    ],
+    [
+      "参考值 ↓",
+      "Reference data ↓",
+      "Valeurs de référence ↓",
+      "基準値 ↓",
+      "Referenzwerte ↓",
+      "Эталонные значения ↓"
+    ],
+    [
+      "屏幕色卡色域",
+      "Display chart color space",
+      "Espace couleur de la mire",
+      "画面色票の色空間",
+      "Farbraum der Bildschirmtafel",
+      "Цветовое пространство таблицы"
+    ],
+    [
+      "照片 / CUBE 工作色域",
+      "Photo / CUBE working space",
+      "Espace de travail photo / CUBE",
+      "写真 / CUBE の作業色空間",
+      "Arbeitsfarbraum für Foto / CUBE",
+      "Рабочее пространство фото / CUBE"
+    ],
+    [
+      "照片与LUT工作色域",
+      "Photo and LUT working space",
+      "Espace de travail photo et LUT",
+      "写真と LUT の作業色空間",
+      "Arbeitsfarbraum für Foto und LUT",
+      "Рабочее пространство фото и LUT"
+    ],
+    [
+      "sRGB · 标准屏幕",
+      "sRGB · standard displays",
+      "sRGB · écrans standard",
+      "sRGB・標準的な画面",
+      "sRGB · Standardbildschirm",
+      "sRGB · стандартный экран"
+    ],
+    [
+      "Display P3 · 广色域屏幕",
+      "Display P3 · wide-gamut displays",
+      "Display P3 · écrans à large gamut",
+      "Display P3・広色域画面",
+      "Display P3 · Breitfarbbildschirm",
+      "Display P3 · широкий охват"
+    ],
+    [
+      "Adobe RGB (1998) · 专业屏幕",
+      "Adobe RGB (1998) · professional displays",
+      "Adobe RGB (1998) · écrans professionnels",
+      "Adobe RGB (1998)・業務用画面",
+      "Adobe RGB (1998) · Profibildschirm",
+      "Adobe RGB (1998) · профессиональный экран"
+    ],
+    [
+      "ACEScg · AP1 / D60 线性",
+      "ACEScg · AP1 / D60 linear",
+      "ACEScg · AP1 / D60 linéaire",
+      "ACEScg・AP1 / D60 リニア",
+      "ACEScg · AP1 / D60 linear",
+      "ACEScg · AP1 / D60 линейное"
+    ],
+    [
+      "基准照片",
+      "Baseline photo",
+      "Photo de référence",
+      "基準写真",
+      "Ausgangsfoto",
+      "Исходное фото"
+    ],
+    [
+      "风格照片",
+      "Styled photo",
+      "Photo stylisée",
+      "スタイル写真",
+      "Stilfoto",
+      "Фото со стилем"
+    ],
+    [
+      "应用照片",
+      "Application photo",
+      "Photo à traiter",
+      "適用する写真",
+      "Zielfoto",
+      "Фото для применения"
+    ],
+    [
+      "映射预览",
+      "Mapping preview",
+      "Aperçu de la transformation",
+      "変換プレビュー",
+      "Vorschau der Abbildung",
+      "Предпросмотр преобразования"
+    ],
+    [
+      "取样点",
+      "Sample points",
+      "Points d’échantillonnage",
+      "サンプル点",
+      "Messpunkte",
+      "Точки выборки"
+    ],
+    [
+      "画面缩放",
+      "Preview zoom",
+      "Zoom de l’aperçu",
+      "プレビュー倍率",
+      "Vorschauzoom",
+      "Масштаб просмотра"
+    ],
+    [
+      "适合",
+      "Fit",
+      "Ajuster",
+      "全体表示",
+      "Einpassen",
+      "Вписать"
+    ],
+    [
+      "色卡预览，可拖动取样点，选中后可用方向键微调",
+      "Chart preview: drag points; use arrow keys for fine adjustments.",
+      "Aperçu : déplacez les points, puis ajustez avec les flèches.",
+      "色票プレビュー：点をドラッグし、矢印キーで微調整できます。",
+      "Tafelvorschau: Punkte ziehen, mit Pfeiltasten feinjustieren.",
+      "Предпросмотр: перетаскивайте точки, уточняйте стрелками."
+    ],
+    [
+      "先显示色卡拍摄，再导入照片",
+      "Display and photograph the chart, then import the photo.",
+      "Affichez et photographiez la mire, puis importez la photo.",
+      "色票を表示して撮影し、写真を読み込んでください。",
+      "Tafel anzeigen und fotografieren, dann das Foto importieren.",
+      "Покажите и снимите таблицу, затем импортируйте фото."
+    ],
+    [
+      "四角标记定位 · 可逐点调整",
+      "Corner markers · individual point adjustment",
+      "Repères d’angle · réglage point par point",
+      "四隅のマーカー・各点を調整可能",
+      "Eckmarkierungen · Punkte einzeln anpassbar",
+      "Угловые маркеры · настройка каждой точки"
+    ],
+    [
+      "四角标记定位 · 黑色间隔",
+      "Corner markers · black gutters",
+      "Repères d’angle · séparations noires",
+      "四隅のマーカー・黒い間隔",
+      "Eckmarkierungen · schwarze Abstände",
+      "Угловые маркеры · чёрные промежутки"
+    ],
+    [
+      "自动识别",
+      "Auto-detect",
+      "Détection automatique",
+      "自動検出",
+      "Automatisch erkennen",
+      "Распознать автоматически"
+    ],
+    [
+      "定位四角",
+      "Set four corners",
+      "Définir les quatre coins",
+      "四隅を指定",
+      "Vier Ecken festlegen",
+      "Указать четыре угла"
+    ],
+    [
+      "重置定位",
+      "Reset positions",
+      "Réinitialiser les positions",
+      "位置をリセット",
+      "Positionen zurücksetzen",
+      "Сбросить позиции"
+    ],
+    [
+      "导入照片后，可拖动每个色块的取样点",
+      "After import, drag each patch’s sample point.",
+      "Après importation, déplacez le point de chaque plage.",
+      "読み込み後、各色のサンプル点をドラッグできます。",
+      "Nach dem Import den Messpunkt jedes Feldes verschieben.",
+      "После импорта можно перемещать точку каждого поля."
+    ],
+    [
+      "选择取样点",
+      "Select a sample point",
+      "Choisir un point",
+      "サンプル点を選択",
+      "Messpunkt auswählen",
+      "Выбрать точку"
+    ],
+    [
+      "在预览上单击或拖动；方向键微调",
+      "Click or drag in the preview; fine-tune with arrow keys.",
+      "Cliquez ou déplacez dans l’aperçu ; ajustez avec les flèches.",
+      "クリックまたはドラッグし、矢印キーで微調整します。",
+      "In der Vorschau klicken oder ziehen; mit Pfeiltasten feinjustieren.",
+      "Щёлкните или перетащите; уточняйте стрелками."
+    ],
+    [
+      "排除此色块",
+      "Exclude this patch",
+      "Exclure cette plage",
+      "この色を除外",
+      "Dieses Feld ausschließen",
+      "Исключить это поле"
+    ],
+    [
+      "取样半径",
+      "Sample radius",
+      "Rayon d’échantillonnage",
+      "サンプル半径",
+      "Messradius",
+      "Радиус выборки"
+    ],
+    [
+      "建立色彩映射",
+      "Build color mapping",
+      "Créer la transformation couleur",
+      "色変換を作成",
+      "Farbabbildung erstellen",
+      "Создать преобразование цвета"
+    ],
+    [
+      "导入色卡照片",
+      "Import chart photo",
+      "Importer la photo de la mire",
+      "色票写真を読み込む",
+      "Foto der Tafel importieren",
+      "Импортировать фото таблицы"
+    ],
+    [
+      "RAW 或由固定流程显影的图像",
+      "RAW or consistently developed images",
+      "RAW ou images développées de façon identique",
+      "RAW または同じ手順で現像した画像",
+      "RAW oder einheitlich entwickelte Bilder",
+      "RAW или изображения с одинаковым проявлением"
+    ],
+    [
+      "选择 RAW / TIFF / PNG / JPG",
+      "Choose RAW / TIFF / PNG / JPG",
+      "Choisir RAW / TIFF / PNG / JPG",
+      "RAW / TIFF / PNG / JPG を選択",
+      "RAW / TIFF / PNG / JPG wählen",
+      "Выбрать RAW / TIFF / PNG / JPG"
+    ],
+    [
+      "自动识别本软件色卡的四角标记",
+      "Detects the four corner markers of this app’s chart",
+      "Détecte les quatre repères de la mire de cette application",
+      "本ソフトの色票の四隅マーカーを検出します",
+      "Erkennt die vier Eckmarkierungen dieser Testtafel",
+      "Распознаёт угловые маркеры таблицы приложения"
+    ],
+    [
+      "导入相机风格照片",
+      "Import camera look photo",
+      "Importer le rendu de l’appareil",
+      "カメラのスタイル写真を読み込む",
+      "Kamerastilfoto importieren",
+      "Импортировать фото со стилем камеры"
+    ],
+    [
+      "同一色卡、固定曝光与白平衡的风格 JPG",
+      "Same chart, fixed exposure and white balance, styled JPG",
+      "Même mire, exposition et balance des blancs fixes, JPG stylisé",
+      "同じ色票・固定露出とホワイトバランスのスタイル JPG",
+      "Gleiche Tafel, feste Belichtung und Weißabgleich, Stil-JPG",
+      "Та же таблица, фиксированные экспозиция и баланс белого, JPG со стилем"
+    ],
+    [
+      "选择风格 JPG",
+      "Choose styled JPG",
+      "Choisir le JPG stylisé",
+      "スタイル JPG を選択",
+      "Stil-JPG wählen",
+      "Выбрать JPG со стилем"
+    ],
+    [
+      "分别检查两张照片的取样位置",
+      "Check sample positions in both photos.",
+      "Vérifiez les points dans les deux photos.",
+      "両方の写真のサンプル位置を確認してください。",
+      "Messpositionen in beiden Fotos prüfen.",
+      "Проверьте позиции точек на обоих фото."
+    ],
+    [
+      "导入要应用的照片",
+      "Import a photo to process",
+      "Importer la photo à traiter",
+      "適用する写真を読み込む",
+      "Zu bearbeitendes Foto importieren",
+      "Импортировать фото для обработки"
+    ],
+    [
+      "与建模照片使用一致的显影流程",
+      "Use the same development process as the training photos.",
+      "Utilisez le même développement que pour les photos d’apprentissage.",
+      "学習用写真と同じ現像手順を使用してください。",
+      "Denselben Entwicklungsprozess wie bei den Trainingsfotos verwenden.",
+      "Используйте тот же процесс проявления, что и для обучающих фото."
+    ],
+    [
+      "选择应用照片",
+      "Choose application photo",
+      "Choisir la photo à traiter",
+      "適用する写真を選択",
+      "Zielfoto wählen",
+      "Выбрать фото для применения"
+    ],
+    [
+      "生成预览，导出带 ICC 的 16 位 TIFF",
+      "Preview and export 16-bit TIFF with ICC",
+      "Aperçu et export TIFF 16 bits avec ICC",
+      "プレビューと ICC 付き 16 ビット TIFF 書き出し",
+      "Vorschau und 16-Bit-TIFF mit ICC exportieren",
+      "Предпросмотр и экспорт 16-битного TIFF с ICC"
+    ],
+    [
+      "检查取样，拟合映射",
+      "Check samples and fit mapping",
+      "Vérifier les points et ajuster la transformation",
+      "サンプルを確認して変換を推定",
+      "Messpunkte prüfen und Abbildung anpassen",
+      "Проверить выборки и рассчитать преобразование"
+    ],
+    [
+      "位置有误可拖动；反光色块可单独排除",
+      "Drag misplaced points; exclude reflective patches.",
+      "Déplacez les points mal placés ; excluez les reflets.",
+      "位置をドラッグで修正し、反射のある色を除外できます。",
+      "Falsche Positionen verschieben; reflektierende Felder ausschließen.",
+      "Переместите неверные точки; исключите поля с бликами."
+    ],
+    [
+      "映射名称",
+      "Mapping name",
+      "Nom de la transformation",
+      "変換名",
+      "Name der Abbildung",
+      "Название преобразования"
+    ],
+    [
+      "拍摄备注 · 屏幕 / 亮度 / 相机 / 白平衡",
+      "Capture notes · display / brightness / camera / white balance",
+      "Notes · écran / luminosité / appareil / balance des blancs",
+      "撮影メモ・画面 / 輝度 / カメラ / ホワイトバランス",
+      "Aufnahmenotizen · Bildschirm / Helligkeit / Kamera / Weißabgleich",
+      "Заметки · экран / яркость / камера / баланс белого"
+    ],
+    [
+      "用于下次复现，可选",
+      "Optional notes for reproducing the setup",
+      "Notes facultatives pour reproduire les conditions",
+      "再現するためのメモ（任意）",
+      "Optionale Notizen zur Wiederholung",
+      "Необязательные заметки для повторения условий"
+    ],
+    [
+      "生成校色映射",
+      "Create calibration mapping",
+      "Créer la correction couleur",
+      "色補正を作成",
+      "Kalibrierabbildung erstellen",
+      "Создать коррекцию цвета"
+    ],
+    [
+      "提取风格映射",
+      "Extract look mapping",
+      "Extraire le rendu",
+      "スタイル変換を抽出",
+      "Stilabbildung extrahieren",
+      "Извлечь преобразование стиля"
+    ],
+    [
+      "使用平滑映射与独立留出色块评估。",
+      "Smooth fitting with held-out patches for evaluation.",
+      "Ajustement lisse évalué sur des plages réservées.",
+      "滑らかな変換を推定し、独立した検証色で評価します。",
+      "Glatte Anpassung mit zurückgehaltenen Feldern zur Bewertung.",
+      "Плавная аппроксимация с проверкой на отложенных полях."
+    ],
+    [
+      "映射质量",
+      "Mapping quality",
+      "Qualité de la transformation",
+      "変換品質",
+      "Qualität der Abbildung",
+      "Качество преобразования"
+    ],
+    [
+      "等待照片",
+      "Waiting for photos",
+      "En attente de photos",
+      "写真を待っています",
+      "Warte auf Fotos",
+      "Ожидание фотографий"
+    ],
+    [
+      "等待拟合",
+      "Not fitted yet",
+      "Ajustement en attente",
+      "未推定",
+      "Noch nicht angepasst",
+      "Преобразование не рассчитано"
+    ],
+    [
+      "待重新拟合",
+      "Refitting required",
+      "Nouvel ajustement requis",
+      "再推定が必要",
+      "Erneute Anpassung nötig",
+      "Требуется пересчёт"
+    ],
+    [
+      "拟合后 ΔE₀₀",
+      "Fitted ΔE₀₀",
+      "ΔE₀₀ après ajustement",
+      "推定後 ΔE₀₀",
+      "Angepasstes ΔE₀₀",
+      "ΔE₀₀ после подгонки"
+    ],
+    [
+      "留出验证 ΔE₀₀",
+      "Holdout ΔE₀₀",
+      "ΔE₀₀ de validation",
+      "検証用 ΔE₀₀",
+      "Validierungs-ΔE₀₀",
+      "Проверочное ΔE₀₀"
+    ],
+    [
+      "训练误差与留出误差分开报告，避免把拟合结果当成真实精度。",
+      "Training and holdout errors are separate; fitting error is not measured physical accuracy.",
+      "Les erreurs d’apprentissage et de validation sont séparées ; elles ne mesurent pas la précision physique.",
+      "学習誤差と検証誤差を分けて表示します。推定誤差は物理的な精度ではありません。",
+      "Trainings- und Validierungsfehler werden getrennt angegeben; sie messen keine physische Genauigkeit.",
+      "Ошибки обучения и проверки разделены; ошибка подгонки не означает физическую точность."
+    ],
+    [
+      "保存与使用",
+      "Save & use",
+      "Enregistrer et utiliser",
+      "保存と使用",
+      "Speichern und verwenden",
+      "Сохранение и использование"
+    ],
+    [
+      "LUT网格",
+      "LUT grid",
+      "Grille LUT",
+      "LUT グリッド",
+      "LUT-Gitter",
+      "Сетка LUT"
+    ],
+    [
+      "Photoshop 色彩查找",
+      "Photoshop Color Lookup",
+      "Correspondance de couleur Photoshop",
+      "Photoshop カラールックアップ",
+      "Photoshop Color Lookup",
+      "Поиск цвета Photoshop"
+    ],
+    [
+      "Adobe 创意配置文件",
+      "Adobe creative profile",
+      "Profil créatif Adobe",
+      "Adobe クリエイティブプロファイル",
+      "Adobe-Kreativprofil",
+      "Творческий профиль Adobe"
+    ],
+    [
+      "基准 TIFF（未应用映射）",
+      "Baseline TIFF (mapping not applied)",
+      "TIFF de référence (sans transformation)",
+      "基準 TIFF（変換未適用）",
+      "Ausgangs-TIFF (ohne Abbildung)",
+      "Исходный TIFF (без преобразования)"
+    ],
+    [
+      "校正后 TIFF",
+      "Corrected TIFF",
+      "TIFF corrigé",
+      "補正後 TIFF",
+      "Korrigiertes TIFF",
+      "TIFF с коррекцией"
+    ],
+    [
+      "保存映射",
+      "Save mapping",
+      "Enregistrer la transformation",
+      "変換を保存",
+      "Abbildung speichern",
+      "Сохранить преобразование"
+    ],
+    [
+      "质量报告",
+      "Quality report",
+      "Rapport de qualité",
+      "品質レポート",
+      "Qualitätsbericht",
+      "Отчёт о качестве"
+    ],
+    [
+      "屏幕相对参考 · 不代表仪器测量的绝对色准",
+      "Screen-relative reference · not instrument-measured absolute accuracy",
+      "Référence relative à l’écran · pas une précision absolue mesurée",
+      "画面を相対基準とします・測定器による絶対精度ではありません",
+      "Bildschirmbezogene Referenz · keine gemessene absolute Farbgenauigkeit",
+      "Эталон относительно экрана · не абсолютная точность по прибору"
+    ],
+    [
+      "Windows 尚未实机测试与维护",
+      "Windows is untested and currently unmaintained",
+      "Windows non testé et actuellement non maintenu",
+      "Windows は実機未検証・現在保守対象外",
+      "Windows ungetestet und derzeit nicht betreut",
+      "Windows не проверен на реальном ПК и пока не поддерживается"
+    ],
+    [
+      "正在处理…",
+      "Processing…",
+      "Traitement…",
+      "処理中…",
+      "Verarbeitung…",
+      "Обработка…"
+    ],
+    [
+      "关闭",
+      "Close",
+      "Fermer",
+      "閉じる",
+      "Schließen",
+      "Закрыть"
+    ],
+    [
+      "先固定条件，再讨论颜色。",
+      "Fix the conditions before comparing color.",
+      "Fixez les conditions avant de comparer les couleurs.",
+      "条件を固定してから、色を比較。",
+      "Erst die Bedingungen festlegen, dann Farben vergleichen.",
+      "Сначала зафиксируйте условия, затем сравнивайте цвет."
+    ],
+    [
+      "显示色卡：",
+      "Display the chart:",
+      "Afficher la mire :",
+      "色票表示：",
+      "Tafel anzeigen:",
+      "Показ таблицы:"
+    ],
+    [
+      "拍摄：",
+      "Capture:",
+      "Prise de vue :",
+      "撮影：",
+      "Aufnahme:",
+      "Съёмка:"
+    ],
+    [
+      "定位：",
+      "Positioning:",
+      "Positionnement :",
+      "位置合わせ：",
+      "Positionierung:",
+      "Расположение:"
+    ],
+    [
+      "校色 / 风格：",
+      "Calibration / look:",
+      "Étalonnage / rendu :",
+      "校正 / スタイル：",
+      "Kalibrierung / Stil:",
+      "Калибровка / стиль:"
+    ],
+    [
+      "导出：",
+      "Export:",
+      "Exportation :",
+      "書き出し：",
+      "Export:",
+      "Экспорт:"
+    ],
+    [
+      "留住你喜欢的色彩。",
+      "Keep the colors you love.",
+      "Conservez les couleurs que vous aimez.",
+      "好きな色を、残す。",
+      "Lieblingsfarben bewahren.",
+      "Сохраните любимые цвета."
+    ],
+    [
+      "从基准照片与风格 JPG 中，估计可复用的全局色彩映射。",
+      "Estimate a reusable global color mapping from baseline and styled JPG chart photos.",
+      "Estimez une transformation globale réutilisable à partir d’une référence et d’un JPG stylisé.",
+      "基準写真とスタイル JPG から、再利用可能な全体の色変換を推定します。",
+      "Aus Referenzfoto und Stil-JPG eine globale Farbabbildung schätzen.",
+      "Оцените глобальное преобразование по исходному фото и JPG со стилем."
+    ],
+    [
+      "把映射，带入作品。",
+      "Bring the mapping into your work.",
+      "Appliquez la transformation à vos images.",
+      "作品に、色変換を。",
+      "Die Abbildung im Bild anwenden.",
+      "Примените преобразование к своим работам."
+    ],
+    [
+      "使用一致的显影流程预览，再导出色彩配置与 16 位图像。",
+      "Preview with a consistent development process, then export profiles and 16-bit images.",
+      "Prévisualisez avec un développement cohérent, puis exportez profils et images 16 bits.",
+      "同じ現像手順で確認し、プロファイルと 16 ビット画像を書き出します。",
+      "Mit einheitlicher Entwicklung prüfen, dann Profile und 16-Bit-Bilder exportieren.",
+      "Проверьте при одинаковом проявлении, затем экспортируйте профили и 16-битные изображения."
+    ],
+    [
+      "导入基准色卡照片",
+      "Import baseline chart photo",
+      "Importer la mire de référence",
+      "基準色票写真を読み込む",
+      "Referenzfoto der Tafel importieren",
+      "Импортировать исходное фото таблицы"
+    ],
+    [
+      "固定显影的基准照片，与风格 JPG 配对",
+      "Consistently developed baseline paired with a styled JPG",
+      "Référence au développement fixe associée à un JPG stylisé",
+      "固定手順の基準写真とスタイル JPG を組み合わせます",
+      "Einheitlich entwickeltes Ausgangsfoto mit Stil-JPG kombinieren",
+      "Исходное фото с фиксированным проявлением в паре с JPG со стилем"
+    ],
+    [
+      "相机 JPG，或固定流程显影的 RAW / TIFF",
+      "Camera JPG or consistently developed RAW / TIFF",
+      "JPG appareil ou RAW / TIFF au développement fixe",
+      "カメラ JPG、または固定手順で現像する RAW / TIFF",
+      "Kamera-JPG oder einheitlich entwickeltes RAW / TIFF",
+      "JPG камеры или RAW / TIFF с фиксированным проявлением"
+    ],
+    [
+      "校色映射",
+      "Calibration mapping",
+      "Transformation d’étalonnage",
+      "校正変換",
+      "Kalibrierabbildung",
+      "Коррекция цвета"
+    ],
+    [
+      "风格映射",
+      "Look mapping",
+      "Transformation de rendu",
+      "スタイル変換",
+      "Stilabbildung",
+      "Преобразование стиля"
+    ],
+    [
+      "灰阶",
+      "Gray step",
+      "Niveau de gris",
+      "グレーステップ",
+      "Graustufe",
+      "Ступень серого"
+    ],
+    [
+      "色彩",
+      "Color",
+      "Couleur",
+      "色",
+      "Farbe",
+      "Цвет"
+    ],
+    [
+      "黑",
+      "Black",
+      "Noir",
+      "黒",
+      "Schwarz",
+      "Чёрный"
+    ],
+    [
+      "原创",
+      "Original",
+      "Originale",
+      "オリジナル",
+      "Original",
+      "Оригинальная"
+    ],
+    [
+      "标记自动识别",
+      "Markers auto-detected",
+      "Repères détectés",
+      "マーカーを自動検出",
+      "Markierungen erkannt",
+      "Маркеры распознаны"
+    ],
+    [
+      "手动定位",
+      "Manual positions",
+      "Positionnement manuel",
+      "手動位置合わせ",
+      "Manuelle Positionen",
+      "Ручное расположение"
+    ],
+    [
+      "未定位 · 请指定四角",
+      "Not located · set four corners",
+      "Non localisée · indiquez les quatre coins",
+      "未検出・四隅を指定してください",
+      "Nicht erkannt · vier Ecken festlegen",
+      "Не определено · укажите четыре угла"
+    ],
+    [
+      "色卡 · 拍摄请使用全屏页",
+      "chart · use the fullscreen page for capture",
+      "mire · utilisez le plein écran pour la prise de vue",
+      "色票・撮影には全画面ページを使用",
+      "Tafel · zur Aufnahme Vollbildseite verwenden",
+      "таблица · для съёмки используйте полный экран"
+    ],
+    [
+      "预览统一转换到 sRGB，导出保留工作色域。",
+      "Previews use sRGB; exports retain the working space.",
+      "Aperçus en sRGB ; exports dans l’espace de travail.",
+      "プレビューは sRGB、書き出しは作業色空間を保持します。",
+      "Vorschauen in sRGB; Exporte behalten den Arbeitsfarbraum.",
+      "Просмотр в sRGB; экспорт сохраняет рабочее пространство."
+    ],
+    [
+      "色卡是 sRGB 参考。",
+      "The chart is an sRGB reference.",
+      "La mire est une référence sRGB.",
+      "色票は sRGB 基準です。",
+      "Die Tafel ist eine sRGB-Referenz.",
+      "Таблица служит эталоном sRGB."
+    ],
+    [
+      "色卡要求屏幕覆盖",
+      "The chart requires display coverage of",
+      "La mire exige un écran couvrant",
+      "色票には次の色域を覆う画面が必要です：",
+      "Die Tafel erfordert Bildschirmabdeckung von",
+      "Для таблицы требуется экран с охватом"
+    ],
+    [
+      "；请选择有效显示 ICC。",
+      "; use a valid display ICC profile.",
+      " ; utilisez un profil ICC d’écran valide.",
+      "。有効なディスプレイ ICC を使用してください。",
+      "; ein gültiges Monitor-ICC verwenden.",
+      "; используйте действительный ICC-профиль экрана."
+    ],
+    [
+      "较大的工作色域不会扩展色卡的校准覆盖。",
+      "A wider working space does not extend chart calibration coverage.",
+      "Un espace de travail plus large n’étend pas la couverture de la mire.",
+      "広い作業色域を選んでも、色票の校正範囲は広がりません。",
+      "Ein größerer Arbeitsfarbraum erweitert nicht die Kalibrierabdeckung der Tafel.",
+      "Более широкое рабочее пространство не расширяет охват калибровки таблицы."
+    ],
+    [
+      "ACEScg 当前仅支持线性 0–1，不包含 HDR / ACES 显示变换。",
+      "ACEScg currently supports linear 0–1 only, without HDR or ACES display transforms.",
+      "ACEScg limité au linéaire 0–1, sans HDR ni transformation d’affichage ACES.",
+      "ACEScg はリニア 0–1 のみ。HDR / ACES 表示変換は含みません。",
+      "ACEScg derzeit nur linear 0–1, ohne HDR oder ACES-Anzeigetransformationen.",
+      "ACEScg пока ограничен линейным 0–1, без HDR и преобразования отображения ACES."
+    ],
+    [
+      "。XMP：对应原色的 32³ LUT，适用于已显影图像。",
+      ". XMP: 32³ LUT using matching primaries, for developed images.",
+      ". XMP : LUT 32³ aux primaires correspondantes, pour images développées.",
+      "。XMP：対応する原色の 32³ LUT。現像済み画像用。",
+      ". XMP: 32³-LUT mit passenden Primärfarben für entwickelte Bilder.",
+      ". XMP: LUT 32³ с соответствующими первичными цветами для проявленных изображений."
+    ],
+    [
+      "。XMP 转换到 sRGB，超出 sRGB 的颜色会裁切；保留宽色域请用 CUBE。",
+      ". XMP adapts to sRGB and clips out-of-gamut colors; use CUBE to retain the wider space.",
+      ". XMP adapté au sRGB avec écrêtage hors gamut ; utilisez CUBE pour conserver le gamut large.",
+      "。XMP は sRGB に変換し、域外色をクリップします。広色域の保持には CUBE を使用。",
+      ". XMP wird auf sRGB begrenzt; für den größeren Farbraum CUBE verwenden.",
+      ". XMP переводится в sRGB с отсечением цветов вне охвата; для широкого охвата используйте CUBE."
+    ],
+    [
+      "色卡显示与照片处理使用明确的色域；改变设置后需重新导入。",
+      "Chart display and photo processing use explicit spaces; reimport after changing settings.",
+      "Affichage et traitement utilisent des espaces définis ; réimportez après modification.",
+      "表示と処理の色空間を明示します。設定変更後は再読み込みしてください。",
+      "Anzeige und Verarbeitung nutzen definierte Farbräume; nach Änderungen erneut importieren.",
+      "Для таблицы и обработки заданы пространства; после изменения импортируйте заново."
+    ],
+    [
+      "CUBE 与 TIFF 使用所选工作色域。XMP 内嵌 32³ LUT；不是 RAW 相机 DCP。",
+      "CUBE and TIFF use the working space. XMP embeds a 32³ LUT; it is not a RAW camera DCP.",
+      "CUBE et TIFF utilisent l’espace de travail. XMP contient une LUT 32³, pas un DCP de boîtier RAW.",
+      "CUBE と TIFF は作業色空間を使用。XMP は 32³ LUT を内蔵し、RAW カメラ DCP ではありません。",
+      "CUBE und TIFF nutzen den Arbeitsfarbraum. XMP enthält eine 32³-LUT, kein RAW-Kamera-DCP.",
+      "CUBE и TIFF используют рабочее пространство. XMP содержит LUT 32³, а не DCP камеры RAW."
+    ],
+    [
+      "单张 / 合计最高 240MP · 文件最高 2GiB",
+      "Up to 240MP per image / session · files up to 2GiB",
+      "240 MP par image / session · fichiers jusqu’à 2 Gio",
+      "単張 / 合計 最大 240MP・ファイル最大 2GiB",
+      "Bis 240 MP pro Bild / Sitzung · Dateien bis 2 GiB",
+      "До 240 Мп на фото / сессию · файлы до 2 ГиБ"
+    ],
+    [
+      "处理失败",
+      "Processing failed",
+      "Échec du traitement",
+      "処理に失敗しました",
+      "Verarbeitung fehlgeschlagen",
+      "Ошибка обработки"
+    ],
+    [
+      "预览加载失败",
+      "Could not load preview",
+      "Impossible de charger l’aperçu",
+      "プレビューを読み込めません",
+      "Vorschau konnte nicht geladen werden",
+      "Не удалось загрузить предпросмотр"
+    ],
+    [
+      "加载预览…",
+      "Loading preview…",
+      "Chargement de l’aperçu…",
+      "プレビューを読み込み中…",
+      "Vorschau wird geladen…",
+      "Загрузка предпросмотра…"
+    ],
+    [
+      "保存取样位置…",
+      "Saving sample positions…",
+      "Enregistrement des positions…",
+      "サンプル位置を保存中…",
+      "Messpositionen werden gespeichert…",
+      "Сохранение точек…"
+    ],
+    [
+      "根据四角定位色块…",
+      "Locating patches from corners…",
+      "Localisation des plages depuis les coins…",
+      "四隅から色の位置を計算中…",
+      "Felder anhand der Ecken bestimmen…",
+      "Определение полей по углам…"
+    ],
+    [
+      "切换工作空间…",
+      "Switching workspace…",
+      "Changement d’espace…",
+      "ワークスペースを切り替え中…",
+      "Arbeitsbereich wechseln…",
+      "Переключение пространства…"
+    ],
+    [
+      "读取图像并识别色卡…",
+      "Reading image and detecting chart…",
+      "Lecture de l’image et détection de la mire…",
+      "画像を読み込み、色票を検出中…",
+      "Bild lesen und Tafel erkennen…",
+      "Чтение изображения и поиск таблицы…"
+    ],
+    [
+      "已识别色卡，请检查每个取样点。",
+      "Chart detected. Check every sample point.",
+      "Mire détectée. Vérifiez chaque point.",
+      "色票を検出しました。各サンプル点を確認してください。",
+      "Tafel erkannt. Alle Messpunkte prüfen.",
+      "Таблица найдена. Проверьте все точки."
+    ],
+    [
+      "已加载应用照片。",
+      "Application photo loaded.",
+      "Photo à traiter chargée.",
+      "適用する写真を読み込みました。",
+      "Zielfoto geladen.",
+      "Фото для применения загружено."
+    ],
+    [
+      "未识别完整标记，请使用「定位四角」，并确认色卡密度一致。",
+      "Markers not detected. Set four corners and check chart density.",
+      "Repères non détectés. Définissez les quatre coins et vérifiez la densité.",
+      "マーカーを検出できません。四隅を指定し、密度設定を確認してください。",
+      "Markierungen nicht erkannt. Vier Ecken und Felddichte prüfen.",
+      "Маркеры не найдены. Укажите четыре угла и проверьте плотность."
+    ],
+    [
+      "更新色彩空间与色卡…",
+      "Updating color space and chart…",
+      "Mise à jour de l’espace et de la mire…",
+      "色空間と色票を更新中…",
+      "Farbraum und Tafel aktualisieren…",
+      "Обновление пространства и таблицы…"
+    ],
+    [
+      "设置已更新。请重新导入照片；色卡变化时需重新拍摄。",
+      "Settings updated. Reimport photos; photograph the chart again if it changed.",
+      "Réglages mis à jour. Réimportez les photos ; refaites la prise de vue si la mire a changé.",
+      "設定を更新しました。写真を再読み込みし、色票が変わった場合は再撮影してください。",
+      "Einstellungen aktualisiert. Fotos erneut importieren; geänderte Tafel neu aufnehmen.",
+      "Настройки обновлены. Импортируйте фото заново; при смене таблицы переснимите её."
+    ],
+    [
+      "导出带对应 ICC 配置的色卡…",
+      "Exporting chart with matching ICC…",
+      "Export de la mire avec ICC correspondant…",
+      "対応 ICC 付き色票を書き出し中…",
+      "Tafel mit passendem ICC exportieren…",
+      "Экспорт таблицы с соответствующим ICC…"
+    ],
+    [
+      "导出参考值…",
+      "Exporting reference data…",
+      "Export des valeurs de référence…",
+      "基準値を書き出し中…",
+      "Referenzwerte exportieren…",
+      "Экспорт эталонных значений…"
+    ],
+    [
+      "重新识别四角标记…",
+      "Detecting corner markers again…",
+      "Nouvelle détection des repères…",
+      "四隅のマーカーを再検出中…",
+      "Eckmarkierungen erneut erkennen…",
+      "Повторное распознавание маркеров…"
+    ],
+    [
+      "请依次点击色卡图像外边缘：左上 → 右上 → 右下 → 左下（再次点击按钮取消）",
+      "Click outer corners: top left → top right → bottom right → bottom left. Click the button again to cancel.",
+      "Cliquez les coins extérieurs : haut gauche → haut droit → bas droit → bas gauche. Recliquez le bouton pour annuler.",
+      "外側の四隅を左上→右上→右下→左下の順にクリック。再度ボタンを押すと取消。",
+      "Außenecken anklicken: oben links → oben rechts → unten rechts → unten links. Erneuter Klick bricht ab.",
+      "Нажмите внешние углы: слева сверху → справа сверху → справа снизу → слева снизу. Повторное нажатие кнопки отменяет."
+    ],
+    [
+      "已取消手动四角定位",
+      "Manual corner selection cancelled",
+      "Sélection manuelle annulée",
+      "四隅の手動指定を取り消しました",
+      "Manuelle Eckenauswahl abgebrochen",
+      "Ручной выбор углов отменён"
+    ],
+    [
+      "逐点检查；可拖动取样点微调位置",
+      "Check each point; drag to fine-tune.",
+      "Vérifiez chaque point ; déplacez pour ajuster.",
+      "各点を確認し、ドラッグで微調整してください。",
+      "Jeden Punkt prüfen; zum Feinjustieren ziehen.",
+      "Проверьте каждую точку; уточняйте перетаскиванием."
+    ],
+    [
+      "取样、拟合映射并计算留出误差…",
+      "Sampling, fitting and evaluating holdout error…",
+      "Échantillonnage, ajustement et validation…",
+      "サンプリング、変換推定、検証誤差を計算中…",
+      "Messpunkte auswerten, Abbildung anpassen und validieren…",
+      "Выборка, расчёт преобразования и проверка ошибки…"
+    ],
+    [
+      "映射已生成。请检查留出误差，并用独立照片评估实际效果。",
+      "Mapping ready. Check holdout error and evaluate with independent photos.",
+      "Transformation créée. Vérifiez l’erreur de validation et testez sur d’autres photos.",
+      "変換を作成しました。検証誤差を確認し、別の写真で効果を評価してください。",
+      "Abbildung erstellt. Validierungsfehler prüfen und unabhängige Fotos testen.",
+      "Преобразование готово. Проверьте ошибку и оцените результат на других фото."
+    ],
+    [
+      "正在生成导出文件…",
+      "Preparing export…",
+      "Préparation de l’export…",
+      "書き出しファイルを作成中…",
+      "Export wird vorbereitet…",
+      "Подготовка экспорта…"
+    ],
+    [
+      "导出未应用映射的显影原片…",
+      "Exporting developed baseline without mapping…",
+      "Export de la référence développée sans transformation…",
+      "変換未適用の現像画像を書き出し中…",
+      "Entwickeltes Ausgangsbild ohne Abbildung exportieren…",
+      "Экспорт проявленного исходника без преобразования…"
+    ],
+    [
+      "准备合成示例并自动定位…",
+      "Preparing and locating synthetic demo…",
+      "Préparation et détection de la démo…",
+      "合成デモを準備・自動検出中…",
+      "Synthetische Demo vorbereiten und erkennen…",
+      "Подготовка и распознавание синтетического примера…"
+    ],
+    [
+      "已载入合成示例。这仅演示功能，不代表相机或屏幕的实测色准。",
+      "Synthetic demo loaded. It demonstrates features, not measured camera or display accuracy.",
+      "Démo synthétique chargée : démonstration fonctionnelle, pas une mesure de précision.",
+      "合成デモを読み込みました。機能の例であり、カメラや画面の実測精度ではありません。",
+      "Synthetische Demo geladen. Sie zeigt Funktionen, keine gemessene Farbgenauigkeit.",
+      "Синтетический пример загружен. Это демонстрация функций, а не измеренная точность камеры или экрана."
+    ],
+    [
+      "打开已保存的映射…",
+      "Opening saved mapping…",
+      "Ouverture de la transformation…",
+      "保存済み変換を読み込み中…",
+      "Gespeicherte Abbildung öffnen…",
+      "Открытие преобразования…"
+    ],
+    [
+      "映射已恢复，可在「应用与导出」中导入新照片。",
+      "Mapping restored. Import a new photo in Apply & export.",
+      "Transformation restaurée. Importez une photo dans Appliquer et exporter.",
+      "変換を復元しました。「適用と書き出し」で新しい写真を読み込めます。",
+      "Abbildung geladen. Unter Anwenden und exportieren ein neues Foto importieren.",
+      "Преобразование восстановлено. Импортируйте фото в разделе «Применение и экспорт»."
+    ],
+    [
+      "关闭本地服务…",
+      "Stopping local service…",
+      "Arrêt du service local…",
+      "ローカルサービスを終了中…",
+      "Lokalen Dienst beenden…",
+      "Остановка локального сервиса…"
+    ],
+    [
+      "JC ColorLab 已退出。现在可以关闭此网页。",
+      "JC ColorLab has stopped. You may close this page.",
+      "JC ColorLab est arrêté. Vous pouvez fermer cette page.",
+      "JC ColorLab を終了しました。このページを閉じられます。",
+      "JC ColorLab wurde beendet. Diese Seite kann geschlossen werden.",
+      "JC ColorLab завершён. Эту страницу можно закрыть."
+    ],
+    [
+      "打开色彩工作空间…",
+      "Opening color workspace…",
+      "Ouverture de l’espace couleur…",
+      "カラーワークスペースを開いています…",
+      "Farbarbeitsbereich öffnen…",
+      "Открытие цветового пространства…"
+    ],
+    [
+      "合成偏色样本.png",
+      "Synthetic color-cast sample.png",
+      "Exemple de dominante synthétique.png",
+      "合成色かぶりサンプル.png",
+      "Synthetischer Farbstich.png",
+      "Синтетический цветовой сдвиг.png"
+    ],
+    [
+      "合成暖调风格.png",
+      "Synthetic warm look.png",
+      "Rendu chaud synthétique.png",
+      "合成暖色スタイル.png",
+      "Synthetischer warmer Stil.png",
+      "Синтетический тёплый стиль.png"
+    ],
+    [
+      "合成演示，不能作为真实相机或屏幕准确度的验证。",
+      "Synthetic demo; not a validation of camera or display accuracy.",
+      "Démo synthétique ; ne valide pas la précision d’un appareil ou écran.",
+      "合成デモであり、実機の色精度を検証するものではありません。",
+      "Synthetische Demo; keine Prüfung der Genauigkeit einer Kamera oder eines Bildschirms.",
+      "Синтетический пример; не проверяет точность камеры или экрана."
+    ],
+    [
+      "合成风格示例。",
+      "Synthetic look example.",
+      "Exemple de rendu synthétique.",
+      "合成スタイルの例です。",
+      "Synthetisches Stilbeispiel.",
+      "Синтетический пример стиля."
+    ],
+    [
+      "单张图片不能超过 240MP。",
+      "An image cannot exceed 240MP.",
+      "Une image ne peut pas dépasser 240 MP.",
+      "単張画像は 240MP 以下にしてください。",
+      "Ein Bild darf 240 MP nicht überschreiten.",
+      "Одно изображение не должно превышать 240 Мп."
+    ],
+    [
+      "当前照片合计不能超过 240MP；请替换现有照片或降低尺寸。",
+      "Photos cannot total more than 240MP; replace an existing photo or reduce dimensions.",
+      "Le total ne peut pas dépasser 240 MP ; remplacez une photo ou réduisez ses dimensions.",
+      "写真の合計は 240MP 以下です。既存の写真を置き換えるか縮小してください。",
+      "Fotos dürfen zusammen 240 MP nicht überschreiten; vorhandenes Foto ersetzen oder verkleinern.",
+      "Общий объём не должен превышать 240 Мп; замените фото или уменьшите размеры."
+    ],
+    [
+      "图片为空或超过 2 GiB 限制。",
+      "Image is empty or exceeds 2GiB.",
+      "Image vide ou supérieure à 2 Gio.",
+      "画像が空か、2GiB を超えています。",
+      "Bild ist leer oder größer als 2 GiB.",
+      "Изображение пустое или превышает 2 ГиБ."
+    ],
+    [
+      "会话已过期，请重新打开软件。",
+      "Session expired. Reopen the application.",
+      "Session expirée. Rouvrez l’application.",
+      "セッションが切れました。ソフトを開き直してください。",
+      "Sitzung abgelaufen. Anwendung erneut öffnen.",
+      "Сессия истекла. Откройте приложение заново."
+    ],
+    [
+      "只接受本机访问。",
+      "Local access only.",
+      "Accès local uniquement.",
+      "ローカルアクセスのみです。",
+      "Nur lokaler Zugriff.",
+      "Только локальный доступ."
+    ],
+    [
+      "跨来源访问已拒绝。",
+      "Cross-origin access denied.",
+      "Accès interorigine refusé.",
+      "別オリジンからのアクセスを拒否しました。",
+      "Ursprungsübergreifender Zugriff verweigert.",
+      "Доступ с другого источника запрещён."
+    ],
+    [
+      "请先导入对应的照片。",
+      "Import the corresponding photo first.",
+      "Importez d’abord la photo correspondante.",
+      "対応する写真を先に読み込んでください。",
+      "Zuerst das entsprechende Foto importieren.",
+      "Сначала импортируйте нужное фото."
+    ],
+    [
+      "请选择图像。",
+      "Choose an image.",
+      "Choisissez une image.",
+      "画像を選択してください。",
+      "Ein Bild auswählen.",
+      "Выберите изображение."
+    ],
+    [
+      "请先生成映射。",
+      "Create a mapping first.",
+      "Créez d’abord une transformation.",
+      "先に変換を作成してください。",
+      "Zuerst eine Abbildung erstellen.",
+      "Сначала создайте преобразование."
+    ],
+    [
+      "请先生成映射或导入已保存的映射。",
+      "Create or import a mapping first.",
+      "Créez ou importez d’abord une transformation.",
+      "先に変換を作成または読み込んでください。",
+      "Zuerst eine Abbildung erstellen oder importieren.",
+      "Сначала создайте или импортируйте преобразование."
+    ],
+    [
+      "请选择校色或风格模式。",
+      "Select calibration or look mode.",
+      "Choisissez étalonnage ou rendu.",
+      "校正またはスタイルモードを選択してください。",
+      "Kalibrier- oder Stilmodus wählen.",
+      "Выберите режим калибровки или стиля."
+    ],
+    [
+      "请选择项目 JSON。",
+      "Choose a project JSON file.",
+      "Choisissez un fichier projet JSON.",
+      "プロジェクト JSON を選択してください。",
+      "Eine Projekt-JSON-Datei auswählen.",
+      "Выберите JSON-файл проекта."
+    ],
+    [
+      "项目文件过大。",
+      "Project file is too large.",
+      "Fichier projet trop volumineux.",
+      "プロジェクトファイルが大きすぎます。",
+      "Projektdatei ist zu groß.",
+      "Файл проекта слишком большой."
+    ],
+    [
+      "不是 JC ColorLab 项目。",
+      "Not a JC ColorLab project.",
+      "Ce n’est pas un projet JC ColorLab.",
+      "JC ColorLab のプロジェクトではありません。",
+      "Kein JC-ColorLab-Projekt.",
+      "Это не проект JC ColorLab."
+    ],
+    [
+      "不是受支持的 JC ColorLab 映射文件。",
+      "Unsupported JC ColorLab mapping file.",
+      "Fichier de transformation JC ColorLab non pris en charge.",
+      "対応する JC ColorLab 変換ファイルではありません。",
+      "Nicht unterstützte JC-ColorLab-Abbildungsdatei.",
+      "Неподдерживаемый файл преобразования JC ColorLab."
+    ],
+    [
+      "不支持的工作色彩空间。",
+      "Unsupported working color space.",
+      "Espace de travail non pris en charge.",
+      "未対応の作業色空間です。",
+      "Nicht unterstützter Arbeitsfarbraum.",
+      "Неподдерживаемое рабочее цветовое пространство."
+    ],
+    [
+      "不支持的 ICC 工作空间。",
+      "Unsupported ICC working space.",
+      "Espace ICC non pris en charge.",
+      "未対応の ICC 作業色空間です。",
+      "Nicht unterstützter ICC-Arbeitsfarbraum.",
+      "Неподдерживаемое рабочее пространство ICC."
+    ],
+    [
+      "不支持的色彩空间；请选择 sRGB、Adobe RGB、Display P3、ProPhoto RGB 或 ACEScg。",
+      "Choose sRGB, Adobe RGB, Display P3, ProPhoto RGB or ACEScg.",
+      "Choisissez sRGB, Adobe RGB, Display P3, ProPhoto RGB ou ACEScg.",
+      "sRGB、Adobe RGB、Display P3、ProPhoto RGB、ACEScg から選択してください。",
+      "sRGB, Adobe RGB, Display P3, ProPhoto RGB oder ACEScg wählen.",
+      "Выберите sRGB, Adobe RGB, Display P3, ProPhoto RGB или ACEScg."
+    ],
+    [
+      "未知导出格式。",
+      "Unknown export format.",
+      "Format d’export inconnu.",
+      "不明な書き出し形式です。",
+      "Unbekanntes Exportformat.",
+      "Неизвестный формат экспорта."
+    ],
+    [
+      "未知照片位置。",
+      "Unknown photo slot.",
+      "Emplacement photo inconnu.",
+      "不明な写真スロットです。",
+      "Unbekannter Fotoplatz.",
+      "Неизвестный слот фотографии."
+    ],
+    [
+      "LUT 网格必须为 17、33 或 65。",
+      "LUT grid must be 17, 33 or 65.",
+      "La grille LUT doit être 17, 33 ou 65.",
+      "LUT グリッドは 17、33、65 のいずれかです。",
+      "LUT-Gitter muss 17, 33 oder 65 sein.",
+      "Размер сетки LUT должен быть 17, 33 или 65."
+    ],
+    [
+      "LUT 边长只支持 17、33 或 65。",
+      "LUT size must be 17, 33 or 65.",
+      "La taille LUT doit être 17, 33 ou 65.",
+      "LUT サイズは 17、33、65 のいずれかです。",
+      "LUT-Größe muss 17, 33 oder 65 sein.",
+      "Размер LUT должен быть 17, 33 или 65."
+    ],
+    [
+      "需要四个有效角点。",
+      "Four valid corners are required.",
+      "Quatre coins valides sont requis.",
+      "有効な四隅が必要です。",
+      "Vier gültige Eckpunkte erforderlich.",
+      "Требуются четыре правильных угла."
+    ],
+    [
+      "请按左上、右上、右下、左下依次选择色卡外边缘，四角不能交叉。",
+      "Select outer corners: top left, top right, bottom right, bottom left. Edges must not cross.",
+      "Choisissez les coins extérieurs : haut gauche, haut droit, bas droit, bas gauche, sans croisement.",
+      "外側の四隅を左上、右上、右下、左下の順に指定してください。交差は不可です。",
+      "Außenecken oben links, oben rechts, unten rechts, unten links wählen; Kanten dürfen sich nicht kreuzen.",
+      "Выберите внешние углы: слева сверху, справа сверху, справа снизу, слева снизу, без пересечения."
+    ],
+    [
+      "取样点数量或位置无效，请重新识别或定位四角。",
+      "Invalid sample count or positions. Detect again or set four corners.",
+      "Nombre ou positions invalides. Relancez la détection ou définissez les coins.",
+      "点の数または位置が無効です。再検出するか四隅を指定してください。",
+      "Ungültige Anzahl oder Positionen. Erneut erkennen oder vier Ecken setzen.",
+      "Неверное число или позиции точек. Повторите поиск или укажите углы."
+    ],
+    [
+      "排除色块列表无效。",
+      "Invalid excluded-patch list.",
+      "Liste d’exclusion invalide.",
+      "除外色リストが無効です。",
+      "Ungültige Ausschlussliste.",
+      "Неверный список исключённых полей."
+    ],
+    [
+      "取样范围无效。",
+      "Invalid sampling region.",
+      "Zone d’échantillonnage invalide.",
+      "サンプル範囲が無効です。",
+      "Ungültiger Messbereich.",
+      "Неверная область выборки."
+    ],
+    [
+      "没有识别到本软件色卡的定位标记；可手动指定四角并拖动采样点。",
+      "No chart markers detected; set corners manually and adjust sample points.",
+      "Aucun repère détecté ; définissez les coins et ajustez les points manuellement.",
+      "色票マーカーが見つかりません。四隅を手動指定し、点を調整できます。",
+      "Keine Tafelmarkierungen erkannt; Ecken und Messpunkte manuell setzen.",
+      "Маркеры таблицы не найдены; задайте углы и точки вручную."
+    ],
+    [
+      "仅识别到 3 个标记；请检查所有采样点位置。",
+      "Only 3 markers detected; check all sample positions.",
+      "Seulement 3 repères détectés ; vérifiez tous les points.",
+      "3 個のマーカーのみ検出。すべての点の位置を確認してください。",
+      "Nur 3 Markierungen erkannt; alle Messpositionen prüfen.",
+      "Найдены только 3 маркера; проверьте все точки."
+    ],
+    [
+      "标记几何关系不一致，未接受自动定位。",
+      "Marker geometry is inconsistent; automatic positions rejected.",
+      "Géométrie incohérente ; positionnement automatique refusé.",
+      "マーカーの幾何関係が一致しないため、自動位置を採用しません。",
+      "Markierungsgeometrie widersprüchlich; automatische Positionen verworfen.",
+      "Геометрия маркеров не согласуется; автоматические позиции отклонены."
+    ],
+    [
+      "透视拟合残差较大；请检查镜头畸变和采样点位置。",
+      "Large perspective residual; check lens distortion and sample positions.",
+      "Résidu de perspective élevé ; vérifiez distorsion et positions.",
+      "透視変換の誤差が大きいため、レンズ歪みと点の位置を確認してください。",
+      "Großer Perspektivfehler; Objektivverzeichnung und Messpunkte prüfen.",
+      "Большая ошибка перспективы; проверьте дисторсию и точки."
+    ],
+    [
+      "色卡部分采样区域在照片之外；请完整拍摄色卡。",
+      "Some sampling areas lie outside the photo; capture the full chart.",
+      "Certaines zones dépassent l’image ; photographiez toute la mire.",
+      "サンプル範囲の一部が写真の外です。色票全体を撮影してください。",
+      "Einige Messbereiche liegen außerhalb; vollständige Tafel aufnehmen.",
+      "Часть выборок вне фото; снимите таблицу целиком."
+    ],
+    [
+      "中央取样区域半径不足 4 像素；对 JPG 压缩和噪声较敏感，建议降低色卡密度或增大拍摄占比。",
+      "Sample radius is below 4 pixels and sensitive to JPG artifacts and noise. Use fewer patches or a larger chart in frame.",
+      "Rayon inférieur à 4 pixels, sensible au JPG et au bruit. Réduisez la densité ou agrandissez la mire dans l’image.",
+      "半径が 4 ピクセル未満で JPG とノイズに敏感です。色数を減らすか、色票を大きく撮影してください。",
+      "Messradius unter 4 Pixeln, empfindlich für JPG-Artefakte und Rauschen. Weniger Felder oder größere Abbildung nutzen.",
+      "Радиус меньше 4 пикселей, чувствителен к JPG и шуму. Уменьшите число полей или снимите таблицу крупнее."
+    ],
+    [
+      "图片未嵌入 ICC，输入暂按 sRGB 解释并转换到所选工作空间。",
+      "No embedded ICC; input is assumed sRGB and converted to the working space.",
+      "Sans ICC, l’entrée est supposée sRGB et convertie vers l’espace de travail.",
+      "ICC がないため sRGB として解釈し、作業色空間へ変換します。",
+      "Kein ICC eingebettet; Eingabe wird als sRGB interpretiert und konvertiert.",
+      "ICC отсутствует; вход считается sRGB и переводится в рабочее пространство."
+    ],
+    [
+      "TIFF 没有嵌入 ICC，输入暂按 sRGB 解释并转换到工作空间。若实际为宽色域，请重新导出并嵌入正确配置文件。",
+      "TIFF has no ICC and is assumed sRGB. For wide-gamut input, export again with the correct profile.",
+      "TIFF sans ICC, supposé sRGB. Pour un gamut large, réexportez avec le bon profil.",
+      "TIFF に ICC がないため sRGB と仮定します。広色域画像は正しい ICC を付けて再書き出ししてください。",
+      "TIFF ohne ICC wird als sRGB behandelt. Breitfarbbilder mit korrektem Profil erneut exportieren.",
+      "TIFF без ICC считается sRGB. Для широкого охвата экспортируйте заново с правильным профилем."
+    ],
+    [
+      "EXIF 未声明 sRGB 且没有 ICC，不能推断真实输入色彩空间；暂按 sRGB 解释。",
+      "EXIF does not declare sRGB and no ICC is present; actual space is unknown. Assuming sRGB.",
+      "EXIF ne déclare pas sRGB et aucun ICC n’est présent ; espace inconnu, supposé sRGB.",
+      "EXIF に sRGB 宣言がなく ICC もありません。実色空間は不明のため sRGB と仮定します。",
+      "EXIF nennt kein sRGB und ICC fehlt; tatsächlicher Farbraum unbekannt. sRGB wird angenommen.",
+      "EXIF не указывает sRGB, ICC отсутствует; реальное пространство неизвестно. Принято sRGB."
+    ],
+    [
+      "RAW 已按固定流程从 LibRaw 宽色域线性 ProPhoto D65 中间空间显影到所选工作空间；不同于相机直出及 Adobe 默认显影。请固定白平衡并沿用相同流程。",
+      "RAW developed via linear LibRaw ProPhoto D65 into the working space. This differs from camera and Adobe rendering; keep white balance and processing consistent.",
+      "RAW développé via ProPhoto D65 linéaire LibRaw. Le rendu diffère du boîtier et d’Adobe ; gardez la même balance des blancs et le même traitement.",
+      "RAW は LibRaw のリニア ProPhoto D65 経由で現像します。カメラや Adobe の出力とは異なるため、同じホワイトバランスと処理を使用してください。",
+      "RAW über lineares LibRaw ProPhoto D65 entwickelt. Abweichend von Kamera und Adobe; Weißabgleich und Verarbeitung beibehalten.",
+      "RAW проявлен через линейный LibRaw ProPhoto D65. Результат отличается от камеры и Adobe; сохраняйте баланс белого и процесс."
+    ],
+    [
+      "RAW 解码中间数据为 16 位整数 0–1；此流程不保留 HDR / 超范围 RAW 值，也不是 ACES IDT。",
+      "RAW intermediate data is 16-bit integer 0–1; HDR/out-of-range values are not preserved. This is not an ACES IDT.",
+      "Intermédiaire RAW entier 16 bits 0–1 ; valeurs HDR/hors plage non conservées. Ce n’est pas une IDT ACES.",
+      "RAW 中間データは 16 ビット整数 0–1。HDR / 範囲外の値は保持せず、ACES IDT ではありません。",
+      "RAW-Zwischendaten: 16-Bit-Ganzzahlen 0–1; HDR-Werte werden nicht erhalten. Keine ACES-IDT.",
+      "Промежуточный RAW: 16-битные целые 0–1; HDR и значения вне диапазона не сохраняются. Это не ACES IDT."
+    ],
+    [
+      "RAW 缺少有效的相机白平衡，不能静默换用另一种显影基准。请先用固定白平衡显影为带 ICC 的 16 位 TIFF。",
+      "RAW lacks valid camera white balance. Develop with fixed white balance to a 16-bit TIFF with ICC first.",
+      "Balance des blancs RAW invalide. Développez avec une balance fixe en TIFF 16 bits avec ICC.",
+      "RAW のカメラホワイトバランスが無効です。固定 WB で ICC 付き 16 ビット TIFF に現像してください。",
+      "RAW ohne gültigen Kameraweißabgleich. Zuerst mit festem Weißabgleich als 16-Bit-TIFF mit ICC entwickeln.",
+      "В RAW нет корректного баланса белого. Сначала проявите с фиксированным ББ в 16-битный TIFF с ICC."
+    ],
+    [
+      "请用 Sigma Photo Pro 固定显影为带 ICC 的 16 位 TIFF。",
+      "Develop consistently in Sigma Photo Pro to 16-bit TIFF with ICC.",
+      "Développez dans Sigma Photo Pro en TIFF 16 bits avec ICC, à réglages fixes.",
+      "Sigma Photo Pro で固定設定の ICC 付き 16 ビット TIFF に現像してください。",
+      "In Sigma Photo Pro mit festen Einstellungen als 16-Bit-TIFF mit ICC entwickeln.",
+      "Проявите с фиксированными настройками в Sigma Photo Pro в 16-битный TIFF с ICC."
+    ],
+    [
+      "请用厂商软件或 Adobe 固定显影为带 ICC 的 16 位 TIFF；具体机型和压缩方式取决于随包 LibRaw。",
+      "Use the maker’s software or Adobe to export consistent 16-bit TIFF with ICC. Model and compression support depend on bundled LibRaw.",
+      "Exportez un TIFF 16 bits avec ICC depuis le logiciel du fabricant ou Adobe. Modèles et compressions dépendent de LibRaw fourni.",
+      "メーカーソフトや Adobe で固定設定の ICC 付き 16 ビット TIFF に書き出してください。機種・圧縮対応は同梱 LibRaw に依存します。",
+      "Mit Herstellerprogramm oder Adobe einheitliches 16-Bit-TIFF mit ICC exportieren. Modell- und Kompressionsunterstützung hängt von LibRaw ab.",
+      "Экспортируйте 16-битный TIFF с ICC в ПО производителя или Adobe. Поддержка моделей и сжатия зависит от встроенного LibRaw."
+    ],
+    [
+      "RAW 解码失败：",
+      "RAW decoding failed: ",
+      "Échec du décodage RAW : ",
+      "RAW デコード失敗：",
+      "RAW-Dekodierung fehlgeschlagen: ",
+      "Ошибка декодирования RAW: "
+    ],
+    [
+      "{0} 个数字参考色",
+      "{0} digital reference colors",
+      "{0} couleurs de référence numériques",
+      "{0} 個のデジタル基準色",
+      "{0} digitale Referenzfarben",
+      "{0} цифровых эталонных цветов"
+    ],
+    [
+      "{0} 个取样点 · {1}",
+      "{0} sample points · {1}",
+      "{0} points · {1}",
+      "{0} 個のサンプル点・{1}",
+      "{0} Messpunkte · {1}",
+      "{0} точек · {1}"
+    ],
+    [
+      "{0} 个参考色超出工作范围，校色时会自动排除。",
+      "{0} reference colors exceed the working range and will be excluded from calibration.",
+      "{0} couleurs hors plage de travail seront exclues de l’étalonnage.",
+      "{0} 色が作業範囲外のため、校正から自動除外します。",
+      "{0} Referenzfarben außerhalb des Arbeitsbereichs werden ausgeschlossen.",
+      "{0} эталонных цветов вне рабочего диапазона будут исключены из калибровки."
+    ],
+    [
+      "使用 {0} 个色块。留出 {1} 个色块验证；这些误差只反映本次图像与数字参考的匹配。",
+      "Using {0} patches, with {1} held out for validation. Errors describe only this image’s match to digital references.",
+      "{0} plages utilisées, {1} réservées à la validation. Les erreurs décrivent uniquement l’accord avec les références numériques.",
+      "{0} 色を使用し、{1} 色で検証します。誤差はこの画像とデジタル基準の一致度のみを示します。",
+      "{0} Felder verwendet, {1} zur Validierung zurückgehalten. Fehler beschreiben nur den Abgleich mit digitalen Referenzen.",
+      "Использовано {0} полей, {1} отложено для проверки. Ошибки показывают лишь совпадение изображения с цифровыми эталонами."
+    ],
+    [
+      "{0} 个参考色无法在所选工作色域 0–1 范围表示，已自动排除，未将裁切值当作准确参考。",
+      "{0} reference colors outside working-space 0–1 were excluded; clipped values are not used as exact references.",
+      "{0} couleurs hors 0–1 ont été exclues ; les valeurs écrêtées ne servent pas de références exactes.",
+      "作業色域の 0–1 外の {0} 色を除外しました。クリップ値を正確な基準として使いません。",
+      "{0} Referenzfarben außerhalb 0–1 ausgeschlossen; beschnittene Werte dienen nicht als exakte Referenz.",
+      "{0} цветов вне 0–1 исключено; отсечённые значения не используются как точные эталоны."
+    ],
+    [
+      "{0} 个非端点灰阶出现明显通道截断；请检查曝光或相机风格是否压死阴影/高光。",
+      "{0} non-endpoint gray patches show clipping; check exposure and crushed shadows/highlights in the camera look.",
+      "{0} gris intermédiaires sont écrêtés ; vérifiez exposition, ombres et hautes lumières du rendu.",
+      "端点以外のグレー {0} 色でクリップを検出。露出とスタイルの黒つぶれ・白飛びを確認してください。",
+      "{0} mittlere Graufelder sind beschnitten; Belichtung sowie Schatten und Lichter prüfen.",
+      "В {0} промежуточных серых полях есть отсечение; проверьте экспозицию, тени и света стиля."
+    ],
+    [
+      "转换后 {0} 通道样本超出 {1} 的 0–1 范围，已裁切；这些颜色不能用于验证原色域。",
+      "After conversion, {0} of channel samples exceeded {1} 0–1 and were clipped; they cannot validate the original gamut.",
+      "Après conversion, {0} des échantillons dépassaient 0–1 en {1} et ont été écrêtés ; ils ne valident pas le gamut initial.",
+      "変換後、チャンネル値の {0} が {1} の 0–1 を超えたためクリップしました。元の色域の検証には使えません。",
+      "Nach Konvertierung lagen {0} der Kanalwerte außerhalb 0–1 in {1} und wurden beschnitten; keine Validierung des ursprünglichen Farbraums.",
+      "После преобразования {0} значений вышло за 0–1 в {1} и отсечено; ими нельзя проверить исходный охват."
+    ],
+    [
+      "找到 {0} 个可用定位标记，需要至少 3 个且 ID 不重复；请手动定位。",
+      "Found {0} usable markers; at least 3 unique IDs are needed. Set positions manually.",
+      "{0} repères utilisables ; au moins 3 identifiants uniques requis. Positionnez manuellement.",
+      "使用可能なマーカーは {0} 個です。異なる ID が 3 個以上必要なため、手動指定してください。",
+      "{0} nutzbare Markierungen; mindestens 3 eindeutige IDs nötig. Manuell positionieren.",
+      "Найдено {0} пригодных маркеров; нужно минимум 3 разных ID. Укажите позиции вручную."
+    ],
+    [
+      "当前显示区域约 {0} × {1} 像素（含系统缩放估算） · 推荐全屏 3840 × 2160",
+      "Display area approximately {0} × {1} pixels (estimated with OS scaling) · fullscreen 3840 × 2160 recommended",
+      "Zone d’affichage estimée : {0} × {1} pixels, mise à l’échelle comprise · plein écran 3840 × 2160 conseillé",
+      "表示領域は約 {0} × {1} ピクセル（OS 拡大率から推定）・全画面 3840 × 2160 推奨",
+      "Anzeigebereich etwa {0} × {1} Pixel (inkl. Skalierung geschätzt) · 3840 × 2160 im Vollbild empfohlen",
+      "Область около {0} × {1} пикселей (оценка с масштабом ОС) · рекомендуется 3840 × 2160"
+    ],
+    [
+      "下一角：{0}（色卡图像外边缘）",
+      "Next corner: {0} (outer chart boundary)",
+      "Coin suivant : {0} (bord extérieur de la mire)",
+      "次の角：{0}（色票画像の外側）",
+      "Nächste Ecke: {0} (äußerer Tafelrand)",
+      "Следующий угол: {0} (внешняя граница таблицы)"
+    ],
+    [
+      "左上",
+      "top left",
+      "haut gauche",
+      "左上",
+      "oben links",
+      "слева сверху"
+    ],
+    [
+      "右上",
+      "top right",
+      "haut droit",
+      "右上",
+      "oben rechts",
+      "справа сверху"
+    ],
+    [
+      "右下",
+      "bottom right",
+      "bas droit",
+      "右下",
+      "unten rechts",
+      "справа снизу"
+    ],
+    [
+      "左下",
+      "bottom left",
+      "bas gauche",
+      "左下",
+      "unten links",
+      "слева снизу"
+    ],
+    [
+      "参考",
+      "Reference",
+      "Référence",
+      "基準",
+      "Referenz",
+      "Эталон"
+    ],
+    [
+      "预览",
+      "Preview",
+      "Aperçu",
+      "プレビュー",
+      "Vorschau",
+      "Предпросмотр"
+    ],
+    [
+      "先固定 SDR、屏幕亮度、相机曝光与白平衡，关闭原彩、夜览和自动亮度。使用有效显示 ICC 和支持色彩管理的浏览器。",
+      "Use SDR, fixed display brightness, exposure and white balance. Disable True Tone, Night Shift and auto brightness. Use a valid display ICC and color-managed browser.",
+      "Utilisez SDR, luminosité, exposition et balance des blancs fixes. Désactivez True Tone, Night Shift et luminosité automatique. Utilisez un ICC valide et un navigateur gérant les couleurs.",
+      "SDR、画面輝度、露出、WB を固定し、True Tone・Night Shift・自動輝度を無効にします。有効な画面 ICC と色管理対応ブラウザーを使ってください。",
+      "SDR, Bildschirmhelligkeit, Belichtung und Weißabgleich festlegen. True Tone, Nachtmodus und automatische Helligkeit deaktivieren. Gültiges Monitor-ICC und Farbmanagement-Browser verwenden.",
+      "Зафиксируйте SDR, яркость, экспозицию и ББ. Отключите True Tone, Night Shift и автояркость. Используйте ICC экрана и браузер с управлением цветом."
+    ],
+    [
+      "推荐 15 英寸 4K、376 色、最高画质 JPG。拍全四角标记，避免反光、过曝、摩尔纹、条带和失焦。",
+      "Use a 15-inch 4K display, 376 patches and highest-quality JPG. Include all corner markers; avoid reflections, clipping, moiré, banding and blur.",
+      "Conseillé : écran 15 pouces 4K, 376 plages, JPG qualité maximale. Incluez les repères ; évitez reflets, écrêtage, moiré, bandes et flou.",
+      "15 インチ 4K・376 色・最高画質 JPG を推奨。四隅を入れ、反射・白飛び・モアレ・縞・ピンぼけを避けてください。",
+      "15 Zoll 4K, 376 Felder und höchste JPG-Qualität empfohlen. Alle Eckmarkierungen aufnehmen; Reflexionen, Clipping, Moiré, Streifen und Unschärfe vermeiden.",
+      "Рекомендуются 15 дюймов 4K, 376 полей и максимальное качество JPG. Снимайте все маркеры, избегайте бликов, отсечения, муара, полос и нерезкости."
+    ],
+    [
+      "标题右侧灰条用于白平衡取样，约为 18% 相对线性亮度。只截取灰条中央，避开黑边；它不是测量过的物理灰卡。",
+      "Use the neutral bar beside the title for white balance, at approximately 18% relative linear luminance. Sample its center, away from borders. It is not a physically measured gray card.",
+      "La barre neutre près du titre sert à la balance des blancs, avec environ 18 % de luminance linéaire relative. Prélevez au centre, loin des bords. Ce n’est pas une carte grise mesurée.",
+      "タイトル横の中性グレーは相対リニア輝度約 18% の WB 用です。黒枠を避け中央を採取してください。物理的に測定したグレーカードではありません。",
+      "Neutralbalken neben dem Titel für Weißabgleich, etwa 18 % relative lineare Leuchtdichte. In der Mitte ohne Rand messen. Keine physisch vermessene Graukarte.",
+      "Нейтральная полоса рядом с заголовком — для ББ, около 18% относительной линейной яркости. Берите центр без границ. Это не измеренная физическая серая карта."
+    ],
+    [
+      "自动识别后检查每个点；失败时按左上、右上、右下、左下指定色卡外角。可拖动、用方向键微调，或排除反光色块。",
+      "Check every detected point. If detection fails, set outer corners clockwise from top left. Drag, use arrow keys or exclude reflective patches.",
+      "Vérifiez chaque point détecté. En cas d’échec, définissez les coins dans le sens horaire depuis le haut gauche. Déplacez, ajustez avec les flèches ou excluez les reflets.",
+      "検出した各点を確認。失敗時は左上から時計回りに四隅を指定します。ドラッグ、矢印キー、反射色の除外が可能です。",
+      "Jeden erkannten Punkt prüfen. Bei Fehlern Außenecken ab oben links im Uhrzeigersinn setzen. Ziehen, Pfeiltasten nutzen oder reflektierende Felder ausschließen.",
+      "Проверьте каждую точку. При сбое задайте внешние углы по часовой стрелке от верхнего левого. Перемещайте, уточняйте стрелками, исключайте блики."
+    ],
+    [
+      "校色将照片映射到数字参考；风格提取将基准照片映射到风格 JPG。只估计全局颜色和明暗，无法重建颗粒、锐化或局部效果。",
+      "Calibration maps photos to digital references; look extraction maps baseline photos to styled JPGs. Only global color and tone are estimated, not grain, sharpening or local effects.",
+      "L’étalonnage relie la photo aux références ; l’extraction relie la référence au JPG stylisé. Seuls couleur et ton globaux sont estimés, pas grain, netteté ou effets locaux.",
+      "校正は写真を数値基準へ、スタイル抽出は基準写真をスタイル JPG へ変換します。全体の色と明暗のみ推定し、粒状感・シャープ・局所効果は再現しません。",
+      "Kalibrierung ordnet Fotos digitalen Referenzen zu; Stilextraktion dem Stil-JPG. Nur globale Farbe und Tonwerte, kein Korn, Schärfen oder lokale Effekte.",
+      "Калибровка сопоставляет фото с цифровым эталоном, извлечение стиля — с JPG со стилем. Оцениваются только общий цвет и тон, без зерна, резкости и локальных эффектов."
+    ],
+    [
+      "CUBE 须在匹配的工作色域中使用。XMP 是用于已显影 SDR 图像的创意配置文件，仍需 Adobe 实机验证。ACEScg 仅限线性 0–1；XMP 会转为 sRGB。",
+      "Apply CUBE in the matching working space. XMP is a creative profile for developed SDR images, pending Adobe host validation. ACEScg is limited to linear 0–1; XMP adapts it to sRGB.",
+      "Appliquez CUBE dans l’espace correspondant. XMP est un profil créatif SDR développé, non encore validé dans Adobe. ACEScg limité au linéaire 0–1 ; adapté au sRGB pour XMP.",
+      "CUBE は一致する作業色空間で使用。XMP は現像済み SDR 用のクリエイティブプロファイルで、Adobe 実機検証は未完了です。ACEScg はリニア 0–1 のみ、XMP は sRGB に変換します。",
+      "CUBE im passenden Arbeitsfarbraum anwenden. XMP ist ein Kreativprofil für entwickelte SDR-Bilder; Adobe-Validierung steht aus. ACEScg nur linear 0–1, für XMP auf sRGB angepasst.",
+      "Применяйте CUBE в соответствующем пространстве. XMP — профиль проявленных SDR, ещё не проверенный в Adobe. ACEScg ограничен линейным 0–1; XMP переводит его в sRGB."
+    ],
+    [
+      "RAW 支持取决于 LibRaw 的机型和压缩支持。无法读取时，用厂商软件固定显影为带 ICC 的 16 位 TIFF；适马 X3F 可用 Sigma Photo Pro。",
+      "RAW support depends on LibRaw model and compression support. If decoding fails, develop consistently to 16-bit TIFF with ICC in the maker’s software; use Sigma Photo Pro for X3F.",
+      "Le RAW dépend des modèles et compressions pris en charge par LibRaw. En cas d’échec, exportez un TIFF 16 bits avec ICC depuis le logiciel fabricant ; Sigma Photo Pro pour X3F.",
+      "RAW 対応は LibRaw の機種・圧縮対応に依存。失敗時はメーカーソフトで固定設定の ICC 付き 16 ビット TIFF に現像し、X3F は Sigma Photo Pro を使えます。",
+      "RAW-Unterstützung hängt von LibRaw-Modellen und Kompression ab. Bei Fehlern mit Herstellerprogramm einheitliches 16-Bit-TIFF mit ICC exportieren; X3F mit Sigma Photo Pro.",
+      "Поддержка RAW зависит от модели и сжатия в LibRaw. При сбое проявите в ПО производителя в 16-битный TIFF с ICC; для X3F подходит Sigma Photo Pro."
+    ],
+    [
+      "屏幕参考不等于实测色准。宽工作色域不能扩大屏幕覆盖；屏幕光谱与真实场景不同，映射不能保证适用所有场景。",
+      "Screen references are not measured accuracy. A wider workspace cannot expand display gamut; screen spectra differ from real scenes, so mappings are not universal.",
+      "Les références écran ne sont pas des mesures. Un espace large n’étend pas le gamut écran ; son spectre diffère des scènes réelles, donc les transformations ne sont pas universelles.",
+      "画面基準は実測精度ではありません。広い作業色域は画面の範囲を広げず、画面の光と実景は異なるため、すべての場面への適用は保証しません。",
+      "Bildschirmreferenzen sind keine Messung. Ein größerer Arbeitsfarbraum erweitert den Bildschirm nicht; dessen Spektrum weicht von realen Szenen ab. Keine universelle Abbildung.",
+      "Экранный эталон не равен измеренной точности. Широкое пространство не расширяет экран; его спектр отличается от сцен, поэтому преобразования не универсальны."
+    ],
+    [
+      "J.C. Lu · MIT。Windows 尚未实机测试，作者目前仅有 Mac，暂不维护 Windows。关闭网页不会停止服务，请使用退出按钮。",
+      "J.C. Lu · MIT. Windows is untested; the author only has a Mac and does not currently maintain Windows. Closing the page does not stop the service; use Quit.",
+      "J.C. Lu · MIT. Windows non testé ni maintenu ; l’auteur ne possède qu’un Mac. Fermer la page n’arrête pas le service ; utilisez Quitter.",
+      "J.C. Lu・MIT。作者は Mac のみ所有し、Windows は未検証・保守対象外です。ページを閉じてもサービスは停止しません。終了ボタンを使用してください。",
+      "J.C. Lu · MIT. Windows ungetestet und nicht betreut; der Autor besitzt nur einen Mac. Schließen der Seite beendet den Dienst nicht; Beenden verwenden.",
+      "J.C. Lu · MIT. Windows не проверен и пока не поддерживается: у автора только Mac. Закрытие страницы не останавливает сервис; используйте выход."
+    ],
+    [
+      "15 英寸 4K 建议使用 376 色；JPG 使用最高画质。相近色分散排列，黑边隔离，只取中央区域；灰条用于白平衡取样。",
+      "For 15-inch 4K, use 376 patches and highest-quality JPG. Similar colors are separated with black gutters; sample centers only. Use the gray bar for white balance.",
+      "Sur 15 pouces 4K, utilisez 376 plages et le JPG de qualité maximale. Teintes proches espacées, séparations noires ; prélevez au centre. Barre grise pour la balance des blancs.",
+      "15 インチ 4K では 376 色・最高画質 JPG を推奨。類似色を分散し、黒枠を避け中央だけを採取します。グレー帯は WB 用です。",
+      "Für 15 Zoll 4K: 376 Felder und höchste JPG-Qualität. Ähnliche Farben getrennt, schwarze Abstände; nur in der Mitte messen. Graubalken für Weißabgleich.",
+      "Для 15 дюймов 4K используйте 376 полей и лучший JPG. Близкие цвета разнесены, границы чёрные; берите центр. Серая полоса — для ББ."
+    ],
+    [
+      "762 色要求清晰的高质量照片；JPG 仍优先推荐 376 色。避免反光、摩尔纹、失焦与过曝。",
+      "762 patches require sharp, high-quality photos; 376 remains preferred for JPG. Avoid reflections, moiré, blur and clipping.",
+      "762 plages exigent des photos nettes de qualité ; 376 reste préférable pour JPG. Évitez reflets, moiré, flou et écrêtage.",
+      "762 色には鮮明な高画質写真が必要です。JPG は 376 色を推奨。反射・モアレ・ぼけ・白飛びを避けてください。",
+      "762 Felder erfordern scharfe, hochwertige Fotos; für JPG bleiben 376 empfohlen. Reflexionen, Moiré, Unschärfe und Clipping vermeiden.",
+      "762 поля требуют резких качественных фото; для JPG предпочтительны 376. Избегайте бликов, муара, нерезкости и отсечения."
+    ],
+    [
+      "4,978 色仅供实验；15 英寸 4K 上色块很小，容易受 JPG 压缩、失焦和摩尔纹影响。建议改用 376 色。",
+      "4,978 patches are experimental. On 15-inch 4K they are small and sensitive to JPG, blur and moiré. Prefer 376 patches.",
+      "4 978 plages sont expérimentales : petites sur 15 pouces 4K et sensibles au JPG, flou et moiré. Préférez 376.",
+      "4,978 色は実験用です。15 インチ 4K では小さく、JPG・ぼけ・モアレに影響されます。376 色を推奨。",
+      "4.978 Felder sind experimentell: auf 15 Zoll 4K klein und empfindlich für JPG, Unschärfe und Moiré. 376 bevorzugen.",
+      "4 978 полей — экспериментальный режим. На 15 дюймах 4K они малы и чувствительны к JPG, нерезкости и муару. Предпочтительны 376."
+    ],
+    [
+      "JC ColorLab · 数字参考色卡",
+      "JC ColorLab · Digital reference chart",
+      "JC ColorLab · Mire numérique",
+      "JC ColorLab・デジタル基準色票",
+      "JC ColorLab · Digitale Referenztafel",
+      "JC ColorLab · Цифровая эталонная таблица"
+    ],
+    [
+      "数字参考",
+      "Digital reference",
+      "Référence numérique",
+      "デジタル基準",
+      "Digitale Referenz",
+      "Цифровой эталон"
+    ],
+    [
+      "关闭 HDR、原彩与夜览，固定屏幕亮度和白平衡。四角标记必须完整入镜。P3 / Adobe RGB 色卡要求屏幕实际覆盖相应色域，否则不能作为该色域的准确参考。",
+      "Disable HDR, True Tone and Night Shift; fix brightness and white balance. Include all corner markers. P3 / Adobe RGB charts require actual display gamut coverage.",
+      "Désactivez HDR, True Tone et Night Shift ; fixez luminosité et balance des blancs. Incluez les repères. Les mires P3 / Adobe RGB exigent un écran couvrant ce gamut.",
+      "HDR・True Tone・Night Shift を切り、輝度と WB を固定。四隅を入れてください。P3 / Adobe RGB 色票には実際にその色域を覆う画面が必要です。",
+      "HDR, True Tone und Nachtmodus deaktivieren; Helligkeit und Weißabgleich fixieren. Alle Eckmarkierungen aufnehmen. P3-/Adobe-RGB-Tafeln erfordern passende Bildschirmabdeckung.",
+      "Отключите HDR, True Tone и Night Shift, зафиксируйте яркость и ББ. Включите все маркеры. Таблицам P3 / Adobe RGB нужен соответствующий охват экрана."
+    ],
+    [
+      "进入全屏，隐藏提示",
+      "Enter fullscreen and hide tips",
+      "Plein écran, masquer l’aide",
+      "全画面にして説明を隠す",
+      "Vollbild, Hinweise ausblenden",
+      "Полный экран, скрыть подсказки"
+    ],
+    [
+      "按 Esc 退出全屏 · 单击画面可重新显示提示",
+      "Esc exits fullscreen · click the chart to show tips",
+      "Échap quitte le plein écran · cliquez la mire pour afficher l’aide",
+      "Esc で全画面終了・画面クリックで説明を再表示",
+      "Esc beendet Vollbild · Tafel anklicken für Hinweise",
+      "Esc — выход · щелчок по таблице возвращает подсказки"
+    ],
+    [
+      "浏览器不允许网页全屏，请使用浏览器菜单进入全屏后，再单击画面隐藏提示。",
+      "Fullscreen is unavailable. Use the browser’s fullscreen menu, then click the chart to hide tips.",
+      "Plein écran indisponible. Utilisez le menu du navigateur, puis cliquez la mire pour masquer l’aide.",
+      "全画面 API を利用できません。ブラウザーの全画面メニューを使い、画面をクリックして説明を隠してください。",
+      "Vollbild nicht verfügbar. Browsermenü nutzen, dann Tafel anklicken, um Hinweise auszublenden.",
+      "Полный экран недоступен. Используйте меню браузера, затем щёлкните таблицу, чтобы скрыть подсказки."
+    ],
+    [
+      "16 位 PNG 暂不支持透明通道；请导出为 RGB TIFF。",
+      "16-bit PNG alpha is unsupported; export RGB TIFF.",
+      "Alpha PNG 16 bits non pris en charge ; exportez en TIFF RGB.",
+      "16 ビット PNG の透明度は未対応。RGB TIFF にしてください。",
+      "16-Bit-PNG-Alpha nicht unterstützt; RGB-TIFF exportieren.",
+      "Альфа 16-битного PNG не поддерживается; экспортируйте RGB TIFF."
+    ],
+    [
+      "16 位 PNG 未嵌入 ICC，输入暂按 sRGB 解释。",
+      "16-bit PNG has no ICC; assuming sRGB.",
+      "PNG 16 bits sans ICC ; sRGB supposé.",
+      "16 ビット PNG に ICC がないため sRGB と仮定します。",
+      "16-Bit-PNG ohne ICC; sRGB wird angenommen.",
+      "16-битный PNG без ICC; принято sRGB."
+    ],
+    [
+      "ACEScg 仅使用 AP1 / D60 线性 0–1 范围，不含 ACES 显示变换，也不支持 HDR/负值的完整场景管线。",
+      "ACEScg uses AP1 / D60 linear 0–1 only, without ACES display transforms or a full HDR/negative-value scene pipeline.",
+      "ACEScg limité à AP1 / D60 linéaire 0–1, sans transformation d’affichage ACES ni pipeline HDR/valeurs négatives complet.",
+      "ACEScg は AP1 / D60 リニア 0–1 のみ。ACES 表示変換、HDR・負値を含む完全なシーン処理はありません。",
+      "ACEScg nur AP1 / D60 linear 0–1; keine ACES-Anzeigetransformationen oder vollständige HDR-/Negativwert-Pipeline.",
+      "ACEScg только AP1 / D60 линейное 0–1, без отображения ACES и полной сценоориентированной обработки HDR/отрицательных значений."
+    ],
+    [
+      "ACEScg 仅使用线性 AP1 的 SDR 0–1 LUT 域；不包含 HDR、相机 IDT 或 ACES 输出显示变换。",
+      "ACEScg is a linear AP1 SDR 0–1 LUT domain, without HDR, camera IDT or ACES output display transforms.",
+      "ACEScg : domaine LUT AP1 linéaire SDR 0–1, sans HDR, IDT caméra ni transformation de sortie ACES.",
+      "ACEScg は AP1 リニア SDR 0–1 LUT 域のみ。HDR、カメラ IDT、ACES 出力表示変換は含みません。",
+      "ACEScg als linearer AP1-SDR-LUT-Bereich 0–1; kein HDR, Kamera-IDT oder ACES-Ausgabetransform.",
+      "ACEScg — линейная AP1 SDR LUT 0–1, без HDR, IDT камеры или выходного преобразования ACES."
+    ],
+    [
+      "ACEScg 在此 XMP 中通过 sRGB 转换适配，无法表达 sRGB 之外的颜色；不是原生 ACES 配置文件。",
+      "This XMP adapts ACEScg through sRGB and cannot represent colors outside sRGB; it is not a native ACES profile.",
+      "Ce XMP adapte ACEScg via sRGB, sans couleurs hors sRGB ; ce n’est pas un profil ACES natif.",
+      "この XMP は ACEScg を sRGB 経由で扱い、sRGB 域外色は表現できません。ネイティブ ACES プロファイルではありません。",
+      "Dieses XMP passt ACEScg über sRGB an und kann keine Farben außerhalb sRGB darstellen; kein natives ACES-Profil.",
+      "В этом XMP ACEScg адаптирован через sRGB; цвета вне sRGB не представимы. Это не нативный профиль ACES."
+    ],
+    [
+      "CMYK 图片没有嵌入 ICC，无法准确转换。请先转换为带 ICC 的 sRGB 图片。",
+      "CMYK has no ICC and cannot be converted accurately. Convert to tagged sRGB first.",
+      "CMJN sans ICC, conversion précise impossible. Convertissez d’abord en sRGB avec ICC.",
+      "CMYK に ICC がないため正確に変換できません。ICC 付き sRGB に変換してください。",
+      "CMYK ohne ICC nicht genau konvertierbar. Zuerst in sRGB mit ICC umwandeln.",
+      "CMYK без ICC нельзя точно преобразовать. Сначала переведите в sRGB с ICC."
+    ],
+    [
+      "ICC 转换失败，未按无配置文件图片继续处理：",
+      "ICC conversion failed; the profile was not ignored: ",
+      "Conversion ICC échouée ; le profil n’a pas été ignoré : ",
+      "ICC 変換失敗。プロファイルを無視せず停止：",
+      "ICC-Konvertierung fehlgeschlagen; Profil nicht ignoriert: ",
+      "Ошибка ICC; профиль не был проигнорирован: "
+    ],
+    [
+      "TIFF 需要恰好 3 个 RGB 通道（不支持附加通道）。",
+      "TIFF requires exactly 3 RGB channels, without extra channels.",
+      "TIFF exige exactement 3 canaux RGB, sans canaux supplémentaires.",
+      "TIFF は RGB の 3 チャンネルのみ対応します。",
+      "TIFF benötigt genau 3 RGB-Kanäle ohne Zusatzkanäle.",
+      "TIFF требует ровно 3 канала RGB без дополнительных каналов."
+    ],
+    [
+      "XMP RGBTable 尺寸必须在 2 至 32 之间，以兼容较早版本的 Camera Raw。",
+      "XMP RGBTable size must be 2–32 for compatibility with older Camera Raw versions.",
+      "Taille RGBTable XMP : 2–32 pour les anciennes versions de Camera Raw.",
+      "旧 Camera Raw 互換のため XMP RGBTable は 2–32 です。",
+      "XMP-RGBTable-Größe 2–32 für ältere Camera-Raw-Versionen.",
+      "Размер XMP RGBTable должен быть 2–32 для старых версий Camera Raw."
+    ],
+    [
+      "XMP 是真正的三维 LUT 配置文件；CUBE 的格点与传递函数可能不同，插值结果可略有差异。",
+      "XMP contains a true 3D LUT. CUBE grids and transfer curves may differ slightly in interpolation.",
+      "XMP contient une vraie LUT 3D. Grilles et courbes CUBE peuvent produire de légères différences d’interpolation.",
+      "XMP は 3D LUT を内蔵します。CUBE の格子・伝達曲線により補間結果が少し異なる場合があります。",
+      "XMP enthält eine echte 3D-LUT. CUBE-Gitter und Kennlinien können leicht andere Interpolation ergeben.",
+      "XMP содержит настоящую 3D LUT. Сетка и передаточные кривые CUBE могут давать небольшие различия интерполяции."
+    ],
+    [
+      "仅适用于与拟合时相同显影基准的 SDR 图片。RAW 需先显影成带正确 ICC 的 TIFF；未应用映射的基准 TIFF 才能再应用此 XMP。",
+      "Use only SDR images developed like the fitting baseline. Develop RAW to TIFF with ICC first; apply XMP to the baseline TIFF without a mapping already applied.",
+      "Uniquement SDR développé comme la référence. Convertissez RAW en TIFF avec ICC ; appliquez XMP au TIFF de base sans transformation préalable.",
+      "推定時と同じ現像の SDR に使用。RAW は ICC 付き TIFF に現像し、変換未適用の基準 TIFF に XMP を適用してください。",
+      "Nur SDR mit gleicher Entwicklung wie beim Fit. RAW zuerst als TIFF mit ICC entwickeln; XMP auf noch nicht korrigiertes Ausgangs-TIFF anwenden.",
+      "Только SDR с тем же проявлением, что при расчёте. RAW сначала проявите в TIFF с ICC; XMP применяйте к TIFF без уже применённой коррекции."
+    ],
+    [
+      "去除重复样本后，训练色块不足。",
+      "Too few training patches after removing duplicates.",
+      "Trop peu de plages après suppression des doublons.",
+      "重複除去後の学習色が不足しています。",
+      "Zu wenige Trainingsfelder nach Entfernen von Duplikaten.",
+      "После удаления дублей недостаточно обучающих полей."
+    ],
+    [
+      "只拟合全局颜色与明暗映射；颗粒、锐化、局部对比、语义调整和动态处理无法由 3D LUT 复现。",
+      "Only global color and tone are fitted; 3D LUTs cannot reproduce grain, sharpening, local contrast, semantic or dynamic processing.",
+      "Seuls couleur et ton globaux sont ajustés ; la LUT 3D ne reproduit pas grain, netteté, contraste local ou traitements sémantiques/dynamiques.",
+      "全体の色と明暗のみ推定します。粒状感、シャープ、局所コントラスト、意味的・動的処理は 3D LUT では再現できません。",
+      "Nur globale Farbe und Tonwerte; 3D-LUTs können Korn, Schärfen, lokalen Kontrast, semantische oder dynamische Verarbeitung nicht reproduzieren.",
+      "Рассчитываются общий цвет и тон; 3D LUT не воспроизводит зерно, резкость, локальный контраст, семантическую или динамическую обработку."
+    ],
+    [
+      "只支持 8/16 位整数 SDR TIFF；浮点/HDR 文件请先按已知方式转换为 sRGB SDR。",
+      "Only 8/16-bit integer SDR TIFF is supported. Convert float/HDR files to known sRGB SDR first.",
+      "Seul TIFF SDR entier 8/16 bits est accepté. Convertissez les fichiers flottants/HDR en sRGB SDR connu.",
+      "8/16 ビット整数 SDR TIFF のみ対応。浮動小数点 / HDR は既知の手順で sRGB SDR に変換してください。",
+      "Nur 8-/16-Bit-Ganzzahl-SDR-TIFF. Float-/HDR-Dateien vorher definiert nach sRGB SDR konvertieren.",
+      "Поддерживается только целочисленный 8/16-битный SDR TIFF. Float/HDR сначала преобразуйте известным способом в sRGB SDR."
+    ],
+    [
+      "只支持 RGB 或黑白灰度 TIFF，请先转换为 sRGB RGB TIFF。",
+      "Only RGB or grayscale TIFF is supported; convert to sRGB RGB TIFF.",
+      "Seuls TIFF RGB ou gris sont acceptés ; convertissez en TIFF RGB sRGB.",
+      "RGB またはグレー TIFF のみ対応。sRGB RGB TIFF に変換してください。",
+      "Nur RGB- oder Graustufen-TIFF; in sRGB-RGB-TIFF umwandeln.",
+      "Только RGB или серый TIFF; преобразуйте в sRGB RGB TIFF."
+    ],
+    [
+      "同一显影流程下的屏幕相对校正；留出误差不代表屏幕的实测准确度或真实场景保证。",
+      "Screen-relative correction under the same development process; holdout error is not measured display accuracy or a real-scene guarantee.",
+      "Correction relative à l’écran avec le même développement ; l’erreur de validation ne garantit ni précision mesurée ni scènes réelles.",
+      "同じ現像条件での画面相対補正です。検証誤差は画面の実測精度や実景での保証ではありません。",
+      "Bildschirmbezogene Korrektur bei gleicher Entwicklung; Validierungsfehler sind keine gemessene Bildschirmgenauigkeit oder Szenengarantie.",
+      "Коррекция относительно экрана при одинаковом проявлении; проверочная ошибка не означает точность экрана или гарантию для реальных сцен."
+    ],
+    [
+      "四角必须按左上、右上、右下、左下顺序组成非退化凸四边形。",
+      "Corners must form a nondegenerate convex quadrilateral in TL, TR, BR, BL order.",
+      "Les coins doivent former un quadrilatère convexe non dégénéré, dans l’ordre HG, HD, BD, BG.",
+      "左上、右上、右下、左下の順で、有効な凸四角形にしてください。",
+      "Ecken müssen oben links, oben rechts, unten rechts, unten links ein echtes konvexes Viereck bilden.",
+      "Углы должны образовать невырожденный выпуклый четырёхугольник в порядке ВЛ, ВП, НП, НЛ."
+    ],
+    [
+      "请提供四个有效的色卡外角坐标：左上、右上、右下、左下。",
+      "Provide valid outer chart corners: TL, TR, BR, BL.",
+      "Indiquez les quatre coins extérieurs valides : HG, HD, BD, BG.",
+      "有効な外角を左上、右上、右下、左下の順に指定してください。",
+      "Vier gültige Außenecken angeben: oben links, oben rechts, unten rechts, unten links.",
+      "Укажите внешние углы: ВЛ, ВП, НП, НЛ."
+    ],
+    [
+      "图像包含无效数值。",
+      "Image contains invalid values.",
+      "L’image contient des valeurs invalides.",
+      "画像に無効な値があります。",
+      "Bild enthält ungültige Werte.",
+      "Изображение содержит недопустимые значения."
+    ],
+    [
+      "图像尺寸不足或不是 RGB 图像。",
+      "Image is too small or not RGB.",
+      "Image trop petite ou non RGB.",
+      "画像が小さすぎるか RGB ではありません。",
+      "Bild zu klein oder nicht RGB.",
+      "Изображение слишком мало или не RGB."
+    ],
+    [
+      "图片包含无效像素数值，无法用于色彩标定。",
+      "Invalid pixel values prevent color calibration.",
+      "Valeurs de pixels invalides pour l’étalonnage.",
+      "無効な画素値のため色校正に使用できません。",
+      "Ungültige Pixelwerte verhindern die Farbkalibrierung.",
+      "Недопустимые значения пикселей мешают калибровке."
+    ],
+    [
+      "图片的 ICC 不是有效的 RGB 配置文件。",
+      "Image ICC is not a valid RGB profile.",
+      "L’ICC de l’image n’est pas un profil RGB valide.",
+      "画像 ICC は有効な RGB プロファイルではありません。",
+      "Bild-ICC ist kein gültiges RGB-Profil.",
+      "ICC изображения не является корректным RGB-профилем."
+    ],
+    [
+      "多页 TIFF 仅使用第一页。",
+      "Only the first TIFF page is used.",
+      "Seule la première page TIFF est utilisée.",
+      "TIFF の最初のページのみ使用します。",
+      "Nur die erste TIFF-Seite wird verwendet.",
+      "Используется только первая страница TIFF."
+    ],
+    [
+      "宽色域工作空间不代表色卡或显示器覆盖了整个色域；未实测颜色只由平滑模型推测。",
+      "A wide workspace does not mean the chart or display covers it; unmeasured colors are estimated by a smooth model.",
+      "Un espace large ne signifie pas que la mire ou l’écran le couvre ; les couleurs non mesurées sont estimées par le modèle.",
+      "広い作業色域でも色票や画面が全域を覆うとは限りません。未測定色は滑らかなモデルによる推定です。",
+      "Ein großer Arbeitsfarbraum bedeutet keine volle Abdeckung durch Tafel oder Display; ungemessene Farben werden geschätzt.",
+      "Широкое пространство не означает полный охват таблицы или экрана; неизмеренные цвета оцениваются плавной моделью."
+    ],
+    [
+      "工作色域大于/不同于显示色卡的色域；未被色卡覆盖的颜色没有独立校准保证。",
+      "The working gamut differs from the chart; colors outside chart coverage have no independent calibration guarantee.",
+      "Le gamut de travail diffère de la mire ; les couleurs hors couverture n’ont pas de garantie d’étalonnage indépendante.",
+      "作業色域と色票の色域が異なります。色票範囲外の色の独立した校正保証はありません。",
+      "Arbeitsfarbraum und Tafel unterscheiden sich; außerhalb der Tafelabdeckung keine unabhängige Kalibriergarantie.",
+      "Рабочий охват отличается от таблицы; для цветов вне её охвата нет независимой гарантии калибровки."
+    ],
+    [
+      "屏幕相对参考 / 固定显影流程；非绝对色度校准，也非相机 DCP/ICC 配置。",
+      "Screen-relative reference / fixed development; not absolute colorimetry or camera DCP/ICC.",
+      "Référence relative à l’écran / développement fixe ; ni colorimétrie absolue ni DCP/ICC caméra.",
+      "画面相対基準 / 固定現像。絶対測色やカメラ DCP/ICC ではありません。",
+      "Bildschirmbezogene Referenz / feste Entwicklung; keine absolute Farbmetrik oder Kamera-DCP/ICC.",
+      "Эталон относительно экрана / фиксированное проявление; не абсолютная колориметрия и не DCP/ICC камеры."
+    ],
+    [
+      "屏幕色卡只支持 sRGB、Display P3 和 Adobe RGB；ProPhoto/ACEScg 用于处理域。",
+      "Display charts support sRGB, Display P3 and Adobe RGB; ProPhoto/ACEScg are processing spaces.",
+      "Les mires utilisent sRGB, Display P3 ou Adobe RGB ; ProPhoto/ACEScg servent au traitement.",
+      "画面色票は sRGB、Display P3、Adobe RGB のみ。ProPhoto / ACEScg は処理用です。",
+      "Bildschirmtafeln unterstützen sRGB, Display P3 und Adobe RGB; ProPhoto/ACEScg sind Verarbeitungsräume.",
+      "Таблицы поддерживают sRGB, Display P3 и Adobe RGB; ProPhoto/ACEScg — пространства обработки."
+    ],
+    [
+      "嵌入 ICC 超出 8 MB 限制。",
+      "Embedded ICC exceeds 8MB.",
+      "ICC intégré supérieur à 8 Mo.",
+      "埋め込み ICC が 8MB を超えています。",
+      "Eingebettetes ICC größer als 8 MB.",
+      "Встроенный ICC превышает 8 МБ."
+    ],
+    [
+      "支持 JPEG、PNG、TIFF、WebP、BMP 以及 LibRaw 可读取的 RAW。",
+      "Supported: JPEG, PNG, TIFF, WebP, BMP and LibRaw-readable RAW.",
+      "Formats : JPEG, PNG, TIFF, WebP, BMP et RAW lisibles par LibRaw.",
+      "JPEG、PNG、TIFF、WebP、BMP、LibRaw が読める RAW に対応。",
+      "Unterstützt: JPEG, PNG, TIFF, WebP, BMP und von LibRaw lesbare RAWs.",
+      "Поддерживаются JPEG, PNG, TIFF, WebP, BMP и RAW, читаемые LibRaw."
+    ],
+    [
+      "无法保持 16 位精度解码此 PNG。",
+      "Cannot decode this PNG at 16-bit precision.",
+      "Décodage PNG en précision 16 bits impossible.",
+      "この PNG を 16 ビット精度でデコードできません。",
+      "PNG kann nicht mit 16-Bit-Präzision dekodiert werden.",
+      "Невозможно декодировать PNG с 16-битной точностью."
+    ],
+    [
+      "无法写入 ICC 元数据。",
+      "Could not write ICC metadata.",
+      "Écriture des métadonnées ICC impossible.",
+      "ICC メタデータを書き込めません。",
+      "ICC-Metadaten konnten nicht geschrieben werden.",
+      "Не удалось записать метаданные ICC."
+    ],
+    [
+      "无法写出 ICC 数据。",
+      "Could not write ICC data.",
+      "Écriture des données ICC impossible.",
+      "ICC データを書き出せません。",
+      "ICC-Daten konnten nicht geschrieben werden.",
+      "Не удалось записать данные ICC."
+    ],
+    [
+      "无法创建高位深 ICC 转换。",
+      "Could not create high-bit-depth ICC transform.",
+      "Transformation ICC haute profondeur impossible.",
+      "高ビット深度 ICC 変換を作成できません。",
+      "ICC-Transformation mit hoher Bittiefe nicht erstellbar.",
+      "Не удалось создать ICC-преобразование высокой разрядности."
+    ],
+    [
+      "无法建立工作空间 ICC。",
+      "Could not create working-space ICC.",
+      "Création de l’ICC de travail impossible.",
+      "作業空間 ICC を作成できません。",
+      "Arbeitsfarbraum-ICC konnte nicht erstellt werden.",
+      "Не удалось создать ICC рабочего пространства."
+    ],
+    [
+      "无法建立工作空间传递函数。",
+      "Could not create working-space transfer curve.",
+      "Création de la courbe de transfert impossible.",
+      "作業空間の伝達曲線を作成できません。",
+      "Übertragungsfunktion konnte nicht erstellt werden.",
+      "Не удалось создать передаточную кривую."
+    ],
+    [
+      "无法计算 ICC 数据尺寸。",
+      "Could not calculate ICC data size.",
+      "Calcul de la taille ICC impossible.",
+      "ICC データサイズを計算できません。",
+      "ICC-Datengröße konnte nicht berechnet werden.",
+      "Не удалось определить размер ICC."
+    ],
+    [
+      "无法读取 TIFF 色彩配置文件：",
+      "Cannot read TIFF color profile: ",
+      "Lecture du profil TIFF impossible : ",
+      "TIFF 色プロファイルを読めません：",
+      "TIFF-Farbprofil nicht lesbar: ",
+      "Невозможно прочитать профиль TIFF: "
+    ],
+    [
+      "映射参数包含无效数值。",
+      "Mapping parameters contain invalid values.",
+      "Paramètres de transformation invalides.",
+      "変換パラメーターに無効な値があります。",
+      "Abbildungsparameter enthalten ungültige Werte.",
+      "Параметры преобразования содержат неверные значения."
+    ],
+    [
+      "映射参数维度不正确或超出限制。",
+      "Mapping dimensions are invalid or exceed limits.",
+      "Dimensions de transformation invalides ou hors limites.",
+      "変換パラメーターの次元が無効か上限外です。",
+      "Abbildungsdimensionen ungültig oder zu groß.",
+      "Размерности преобразования неверны или превышают пределы."
+    ],
+    [
+      "映射参数超出有效范围。",
+      "Mapping parameters are out of range.",
+      "Paramètres de transformation hors plage.",
+      "変換パラメーターが範囲外です。",
+      "Abbildungsparameter außerhalb des Bereichs.",
+      "Параметры преобразования вне диапазона."
+    ],
+    [
+      "映射报告必须为对象。",
+      "Mapping report must be an object.",
+      "Le rapport doit être un objet.",
+      "変換レポートはオブジェクト形式が必要です。",
+      "Abbildungsbericht muss ein Objekt sein.",
+      "Отчёт должен быть объектом."
+    ],
+    [
+      "映射模式必须是 calibrate 或 style。",
+      "Mapping mode must be calibrate or style.",
+      "Mode requis : calibrate ou style.",
+      "変換モードは calibrate または style です。",
+      "Abbildungsmodus muss calibrate oder style sein.",
+      "Режим должен быть calibrate или style."
+    ],
+    [
+      "映射输入必须是有效的 RGB 数值。",
+      "Mapping input must contain valid RGB values.",
+      "L’entrée doit contenir des valeurs RGB valides.",
+      "変換入力には有効な RGB 値が必要です。",
+      "Abbildungseingabe muss gültige RGB-Werte enthalten.",
+      "На входе должны быть корректные RGB-значения."
+    ],
+    [
+      "有效色块较少；复杂风格的非线性颜色变化可能无法重建。",
+      "Few valid patches; complex nonlinear looks may not be reconstructed.",
+      "Peu de plages valides ; les rendus non linéaires complexes peuvent ne pas être reconstruits.",
+      "有効な色が少なく、複雑な非線形スタイルは再現できない場合があります。",
+      "Wenige gültige Felder; komplexe nichtlineare Stile eventuell nicht rekonstruierbar.",
+      "Мало полей; сложные нелинейные стили могут не восстановиться."
+    ],
+    [
+      "此版本未安装 RAW 解码组件 rawpy；可先导出带 ICC 的 16 位 TIFF 再导入。",
+      "rawpy is not installed; import a 16-bit TIFF with ICC instead.",
+      "rawpy absent ; importez plutôt un TIFF 16 bits avec ICC.",
+      "rawpy がありません。ICC 付き 16 ビット TIFF を読み込んでください。",
+      "rawpy fehlt; stattdessen 16-Bit-TIFF mit ICC importieren.",
+      "rawpy не установлен; импортируйте 16-битный TIFF с ICC."
+    ],
+    [
+      "此输入类型采用 8 位 ICC 转换。",
+      "This input uses 8-bit ICC conversion.",
+      "Cette entrée utilise une conversion ICC 8 bits.",
+      "この入力は 8 ビット ICC 変換を使用します。",
+      "Diese Eingabe nutzt 8-Bit-ICC-Konvertierung.",
+      "Для этого входа используется 8-битное ICC-преобразование."
+    ],
+    [
+      "此运行环境无法保持高位深进行 ICC 转换。请使用完整 LittleCMS 构建；或先转换为带 ICC 的 8 位图片（会损失精度）。",
+      "High-bit-depth ICC conversion unavailable. Use a complete LittleCMS build, or convert to tagged 8-bit images with precision loss.",
+      "ICC haute profondeur indisponible. Utilisez LittleCMS complet ou une image 8 bits avec ICC, avec perte de précision.",
+      "高ビット深度 ICC 変換が利用できません。完全な LittleCMS を使うか、精度低下を伴う ICC 付き 8 ビット画像に変換してください。",
+      "ICC mit hoher Bittiefe nicht verfügbar. Vollständiges LittleCMS nutzen oder verlustbehaftet zu 8 Bit mit ICC konvertieren.",
+      "ICC высокой разрядности недоступен. Используйте полную сборку LittleCMS или 8-битное изображение с ICC с потерей точности."
+    ],
+    [
+      "此运行环境未提供完整 LittleCMS，不能生成宽色域 ICC；请使用完整构建。",
+      "Full LittleCMS is missing; wide-gamut ICC generation requires the complete build.",
+      "LittleCMS incomplet ; la création d’ICC large gamut exige la version complète.",
+      "LittleCMS が不完全なため広色域 ICC を作成できません。完全版を使用してください。",
+      "Vollständiges LittleCMS fehlt; für Breitfarb-ICC die vollständige Version nutzen.",
+      "Нет полного LittleCMS; для широкого ICC нужна полная сборка."
+    ],
+    [
+      "独立留出验证未改善平均色差，请检查定位、色彩空间、白平衡和曝光。",
+      "Holdout mean color error did not improve. Check positions, color space, white balance and exposure.",
+      "L’erreur moyenne de validation n’a pas diminué. Vérifiez positions, espace, balance des blancs et exposition.",
+      "検証の平均色差が改善しません。位置、色空間、WB、露出を確認してください。",
+      "Mittlerer Validierungsfarbfehler nicht verbessert. Positionen, Farbraum, Weißabgleich und Belichtung prüfen.",
+      "Средняя проверочная ошибка не уменьшилась. Проверьте точки, пространство, ББ и экспозицию."
+    ],
+    [
+      "独立留出验证误差较高；当前结果只宜作为近似，应检查样本质量。",
+      "Holdout error is high; treat the result as approximate and check sample quality.",
+      "Erreur de validation élevée ; résultat approximatif, vérifiez les échantillons.",
+      "検証誤差が大きいため結果は近似です。サンプル品質を確認してください。",
+      "Hoher Validierungsfehler; Ergebnis nur Näherung. Messqualität prüfen.",
+      "Высокая проверочная ошибка; результат приближённый. Проверьте качество выборок."
+    ],
+    [
+      "独立色彩样本过少，无法建立可靠映射。",
+      "Too few distinct colors for a reliable mapping.",
+      "Trop peu de couleurs distinctes pour une transformation fiable.",
+      "独立した色が少なすぎて信頼できる変換を作成できません。",
+      "Zu wenige unterschiedliche Farben für zuverlässige Abbildung.",
+      "Недостаточно разных цветов для надёжного преобразования."
+    ],
+    [
+      "白点必须是有效的 CIE xy 坐标。",
+      "White point must be valid CIE xy coordinates.",
+      "Le blanc doit avoir des coordonnées CIE xy valides.",
+      "白色点には有効な CIE xy 座標が必要です。",
+      "Weißpunkt muss gültige CIE-xy-Koordinaten haben.",
+      "Белая точка должна иметь корректные CIE xy координаты."
+    ],
+    [
+      "色卡密度只支持 5、7、9 或 17 级 RGB 网格。",
+      "Chart density supports RGB grids of 5, 7, 9 or 17 levels.",
+      "Densités possibles : grilles RGB de 5, 7, 9 ou 17 niveaux.",
+      "色票密度は RGB 5、7、9、17 段階です。",
+      "Felddichte unterstützt RGB-Gitter mit 5, 7, 9 oder 17 Stufen.",
+      "Плотность поддерживает сетки RGB на 5, 7, 9 или 17 уровней."
+    ],
+    [
+      "色块必须为当前工作空间内的 SDR 0–1 数值；此 LUT 不支持超出该范围的 HDR 数据。",
+      "Patches must use SDR 0–1 in the working space; HDR values outside this range are unsupported.",
+      "Les plages doivent être SDR 0–1 dans l’espace de travail ; HDR hors plage non pris en charge.",
+      "色は作業空間の SDR 0–1 にしてください。範囲外の HDR は未対応です。",
+      "Felder müssen SDR 0–1 im Arbeitsfarbraum sein; HDR außerhalb nicht unterstützt.",
+      "Поля должны быть SDR 0–1 в рабочем пространстве; HDR вне диапазона не поддерживается."
+    ],
+    [
+      "色块数据包含无效数值；请先排除无效采样点。",
+      "Patch data contains invalid values; exclude invalid samples.",
+      "Valeurs de plage invalides ; excluez les points concernés.",
+      "色データに無効な値があります。該当サンプルを除外してください。",
+      "Felddaten enthalten ungültige Werte; betroffene Messpunkte ausschließen.",
+      "Данные полей некорректны; исключите неверные точки."
+    ],
+    [
+      "色彩映射输出无效，无法导出 XMP。",
+      "Invalid mapping output; cannot export XMP.",
+      "Sortie de transformation invalide ; export XMP impossible.",
+      "変換出力が無効なため XMP を書き出せません。",
+      "Ungültige Abbildungsausgabe; XMP-Export nicht möglich.",
+      "Неверный результат преобразования; экспорт XMP невозможен."
+    ],
+    [
+      "输入与目标必须是相同尺寸的 N×3 色彩数组。",
+      "Input and target must be matching N×3 color arrays.",
+      "Entrée et cible doivent être des tableaux N×3 de même taille.",
+      "入力と目標は同じサイズの N×3 色配列にしてください。",
+      "Eingabe und Ziel müssen gleich große N×3-Farbarrays sein.",
+      "Вход и цель должны быть цветовыми массивами N×3 одинакового размера."
+    ],
+    [
+      "输入中很多颜色相同或近似，可能发生截断；丢失的颜色信息无法恢复。",
+      "Many input colors are identical or similar, possibly clipped; lost color information cannot be recovered.",
+      "Nombreuses couleurs identiques ou proches, peut-être écrêtées ; l’information perdue est irrécupérable.",
+      "同じ色や近い色が多く、クリップの可能性があります。失われた色情報は復元できません。",
+      "Viele Eingabefarben gleich oder ähnlich, möglicherweise Clipping; verlorene Farbinformationen nicht wiederherstellbar.",
+      "Много одинаковых или близких цветов, возможно отсечение; потерянный цвет не восстановить."
+    ],
+    [
+      "输入覆盖较窄；未采样颜色的映射主要依赖平滑假设，外推不可靠。",
+      "Input coverage is narrow; unsampled colors rely on smoothing assumptions and extrapolation is unreliable.",
+      "Couverture étroite ; couleurs non échantillonnées fondées sur le lissage, extrapolation peu fiable.",
+      "入力の範囲が狭く、未採取色は滑らかさの仮定に依存するため外挿は不確かです。",
+      "Geringe Eingabeabdeckung; ungemessene Farben beruhen auf Glättungsannahmen, Extrapolation unzuverlässig.",
+      "Охват входа узок; неизмеренные цвета зависят от предположения плавности, экстраполяция ненадёжна."
+    ],
+    [
+      "边界色块的 0/1 值可能是正常参考值；请结合 RAW 高光与实际拍摄检查截断。",
+      "Boundary 0/1 patch values may be intentional; check RAW highlights and capture conditions for clipping.",
+      "Les valeurs limites 0/1 peuvent être normales ; vérifiez hautes lumières RAW et prise de vue pour l’écrêtage.",
+      "端の 0/1 は正常な基準値の場合もあります。RAW のハイライトと撮影条件からクリップを確認してください。",
+      "Grenzwerte 0/1 können beabsichtigt sein; RAW-Lichter und Aufnahmebedingungen auf Clipping prüfen.",
+      "Граничные 0/1 могут быть нормой; проверяйте отсечение по светам RAW и условиям съёмки."
+    ],
+    [
+      "透明像素已在工作空间合成到白色背景。",
+      "Transparent pixels composited onto white in the working space.",
+      "Pixels transparents composés sur blanc dans l’espace de travail.",
+      "透明画素を作業空間内で白背景に合成しました。",
+      "Transparente Pixel im Arbeitsfarbraum auf Weiß zusammengesetzt.",
+      "Прозрачные пиксели наложены на белый фон в рабочем пространстве."
+    ],
+    [
+      "采样半径必须在图像短边的 0.01% 到 5% 之间。",
+      "Sampling radius must be 0.01%–5% of the shorter image side.",
+      "Rayon requis : 0,01 %–5 % du petit côté de l’image.",
+      "半径は画像短辺の 0.01%–5% にしてください。",
+      "Messradius muss 0,01 %–5 % der kürzeren Bildseite betragen.",
+      "Радиус должен быть 0,01%–5% короткой стороны изображения."
+    ],
+    [
+      "采样点包含无效数值。",
+      "Sample points contain invalid values.",
+      "Points contenant des valeurs invalides.",
+      "サンプル点に無効な値があります。",
+      "Messpunkte enthalten ungültige Werte.",
+      "Точки содержат недопустимые значения."
+    ],
+    [
+      "采样需要 RGB 图像和 N×2 归一化坐标。",
+      "Sampling needs an RGB image and N×2 normalized coordinates.",
+      "Échantillonnage : image RGB et coordonnées normalisées N×2 requises.",
+      "RGB 画像と N×2 の正規化座標が必要です。",
+      "Messung benötigt RGB-Bild und normalisierte N×2-Koordinaten.",
+      "Для выборки нужны RGB-изображение и нормированные координаты N×2."
+    ],
+    [
+      "采样颜色不足以覆盖三维色彩空间；只有灰阶或严重截断的数据无法拟合 3D 映射。",
+      "Samples do not span 3D color; gray-only or heavily clipped data cannot fit a 3D mapping.",
+      "Les échantillons ne couvrent pas la couleur 3D ; gris seuls ou données écrêtées ne permettent pas l’ajustement 3D.",
+      "サンプルが 3D 色空間を覆いません。グレーのみや強くクリップしたデータでは 3D 変換を推定できません。",
+      "Messfarben spannen keinen 3D-Farbraum auf; nur Grau oder stark beschnittene Daten reichen nicht.",
+      "Выборки не охватывают 3D-цвет; одних серых или сильно отсечённых данных недостаточно."
+    ],
+    [
+      "需要 12 至 10000 对有效色块。",
+      "12–10,000 valid patch pairs are required.",
+      "12 à 10 000 paires de plages valides requises.",
+      "有効な色のペアが 12–10,000 組必要です。",
+      "12–10.000 gültige Feldpaare erforderlich.",
+      "Требуется 12–10 000 корректных пар полей."
+    ],
+    [
+      "需要有限数值的 H×W×3 RGB 图片。",
+      "A finite H×W×3 RGB image is required.",
+      "Image RGB H×W×3 à valeurs finies requise.",
+      "有限値の H×W×3 RGB 画像が必要です。",
+      "RGB-Bild H×W×3 mit endlichen Werten erforderlich.",
+      "Требуется RGB-изображение H×W×3 с конечными значениями."
+    ],
+    [
+      "颜色必须是有限数值的 (..., 3) 数组。",
+      "Colors must be a finite (..., 3) array.",
+      "Les couleurs doivent former un tableau (..., 3) à valeurs finies.",
+      "色は有限値の (..., 3) 配列にしてください。",
+      "Farben müssen ein (..., 3)-Array mit endlichen Werten sein.",
+      "Цвета должны быть массивом (..., 3) с конечными значениями."
+    ],
+    [
+      "采样点 {0} 的区域超出照片边缘。",
+      "Sample point {0} lies outside the photo.",
+      "Le point {0} dépasse la photo.",
+      "サンプル点 {0} の領域が写真の外です。",
+      "Messbereich von Punkt {0} außerhalb des Fotos.",
+      "Область точки {0} выходит за края фото."
+    ],
+    [
+      "采样点 {0} 不均匀，可能包含色块边缘、反光或摩尔纹。",
+      "Sample {0} is nonuniform: possible patch edge, reflection or moiré.",
+      "Échantillon {0} non uniforme : bord, reflet ou moiré possible.",
+      "サンプル {0} が不均一です。境界、反射、モアレの可能性があります。",
+      "Messpunkt {0} ungleichmäßig: möglicher Rand, Reflexion oder Moiré.",
+      "Выборка {0} неоднородна: возможны край поля, блик или муар."
+    ],
+    [
+      "参考标准",
+      "REFERENCE STANDARD",
+      "RÉFÉRENCE",
+      "基準",
+      "REFERENZSTANDARD",
+      "ЭТАЛОН"
+    ],
+    [
+      "让色彩有基准",
+      "COLOR, WITH A REFERENCE.",
+      "UNE RÉFÉRENCE POUR LA COULEUR.",
+      "色に基準を。",
+      "FARBE MIT REFERENZ.",
+      "ЦВЕТ С ЭТАЛОНОМ."
+    ],
+    [
+      "工作流程",
+      "WORKFLOW",
+      "PROCÉDURE",
+      "ワークフロー",
+      "ABLAUF",
+      "ПРОЦЕСС"
+    ],
+    [
+      "原创数字色卡",
+      "ORIGINAL DIGITAL TARGET",
+      "MIRE NUMÉRIQUE ORIGINALE",
+      "オリジナルデジタル色票",
+      "ORIGINALE DIGITALE TESTTAFEL",
+      "ОРИГИНАЛЬНАЯ ЦИФРОВАЯ ТАБЛИЦА"
+    ],
+    [
+      "数字参考色卡",
+      "Digital reference chart",
+      "Mire numérique de référence",
+      "デジタル基準色票",
+      "Digitale Referenztafel",
+      "Цифровая эталонная таблица"
+    ]
+  ]
+}
