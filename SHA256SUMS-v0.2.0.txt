@@ -1,3 +1,3 @@
-a73c99fd7659d3878209e3533a9d680e62ecad9d13192df929ffe1c38b19acc8  JC-ColorLab-v0.2.0-Windows-x64-experimental.zip
-8bd530fff8e42267a8103ce92b3688062054d281d454271a83841e6bb91108bd  JC-ColorLab-v0.2.0-macOS-arm64.zip
-12abad184026f2cbae34bb05ced1600c1c3737b08358616213e4f9d320a8b9ec  JC-ColorLab-v0.2.0-source.zip
+5bad60d993e7ce2cea2871a7ffb9848e6b9a80113a9401a04784053ac9803e73  JC-ColorLab-v0.2.0-Windows-x64-experimental.zip
+2cdfac0971aabbc76cbe3d70543f33e59051713b211176744e8168e49a793fb5  JC-ColorLab-v0.2.0-macOS-arm64.zip
+0d15bc0fa7eb5a4e008f7e101a7602dc62317aa69b156d0bf2f8220d403eca70  JC-ColorLab-v0.2.0-source.zip
